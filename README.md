@@ -39,7 +39,7 @@ flowchart LR
 
 ### Timblo
 
-> AI 회의록 SaaS · 250+ 기업 고객 · GS인증 1등급
+> AI 회의록 SaaS · SK hybix & telecom 공동 서비스 오픈 · 마케팅 협업
 
 | 문제 | 해결 |
 |---|---|
@@ -63,7 +63,7 @@ flowchart LR
 
 ### SORIZAVA
 
-> 핵심 매출 서비스 · AJ 속기사 인지 확보 · 풀퍼널 마케팅 
+> 핵심 매출 서비스 · AI 속기사 인지 확보 · 풀퍼널 마케팅 
 
 | 문제 | 해결 |
 |---|---|
