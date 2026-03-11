@@ -50,7 +50,7 @@ flowchart LR
 
 | 문제 | 해결 |
 |---|---|
-| 경쟁사 사이트 구조 파악에 수일 소요 | 자동 크롤링 → IA·SEO 클러스터 시각화 → 수시간 단축 |
+| 경쟁사 사이트 구조와 SEO 기회를 파악하는 데 많은 시간이 소요됨 | 자동 크롤링 기반으로 IA·SEO 클러스터를 시각화해 분석 시간을 대폭 단축 |
 
 [Live Demo](https://webscout-next-8veo.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
 
@@ -58,11 +58,11 @@ flowchart LR
 
 ### SORIZAVA
 
-> 핵심 매출 서비스 · 20년+ 운영 · 6,000+ 회원
+> 핵심 매출 서비스 · AJ 속기사 인지 확보 · 풀퍼널 마케팅 
 
 | 문제 | 해결 |
 |---|---|
-| 레거시 서비스의 리드/매출 정체 | SEO·콘텐츠·전환 구조 재설계 → 매출/리드 14x 성장 |
+| 레거시 서비스 구조로 인해 리드와 전환 효율이 정체됨 | SEO, A/B 테스트 (UTM 기반), 전환 병목를 재정비해 리드 확장 다시 설계 |
 
 [sorizava.com](https://www.sorizava.com/)
 
@@ -74,7 +74,7 @@ flowchart LR
 
 | 문제 | 해결 |
 |---|---|
-| 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 생성 + 템플릿 렌더링 + 멀티사이즈 자동 생성 |
+| 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 생성, 템플릿 렌더링, 멀티사이즈 자동화를 결합한 제작 시스템 구축 |
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool)
 
