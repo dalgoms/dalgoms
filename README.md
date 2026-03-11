@@ -38,7 +38,7 @@ flowchart LR
 
 | 문제 | 해결 |
 |---|---|
-| B2B/B2C 채널 분산, 앱·웹·스토어 메시지 불일치 | 웹·앱·스토어 통합 커뮤니케이션 설계, 채널별 전환 구조 완성 |
+| B2B/B2C 채널이 분산되어 있고 앱·웹·스토어 메시지가 일관되지 않음 | 웹·앱·스토어를 아우르는 통합 커뮤니케이션 구조와 채널별 전환 흐름 설계 |
 
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
 
