@@ -39,7 +39,7 @@ flowchart LR
 
 ### Timblo
 
-> AI 회의록 SaaS · SK hybix & telecom 공동 서비스 오픈 · 마케팅 협업
+> AI 회의록 SaaS · SK hynix & SK telecom 공동 서비스 오픈 · 마케팅 협업
 
 | 문제 | 해결 |
 |---|---|
