@@ -99,14 +99,14 @@ flowchart LR
 
 | 분류 | 사이트 | 설명 | 역할 |
 |---|---|---|---|
-| 기업 | [timbel.net](https://www.timbel.net/) | AI 음성 플랫폼 · B2B 허브 | 기획 · 메시지 · 리드 · CMS |
-| 서비스 | [sorizava.com](https://www.sorizava.com/) | 속기 키보드 · 6,000+ 회원 | SEO · 전환 · 운영 |
-| 서비스 | [clipdesk.net](https://www.clipdesk.net/) | 영상 편집 · 크리에이터/기업 | 런칭 · 기획 |
-| 콘텐츠 | [textarbiz.com](https://www.textarbiz.com/) | 자막/번역 · 1,560+ 전문가 | 커뮤니케이션 |
-| 글로벌 | [textarglobal.com](https://www.textarglobal.com/) | 글로벌 자막 · AI+Human | 글로벌 |
-| 플랫폼 | [worksfy.net](https://www.worksfy.net/) | 속기사 매칭 | 운영 |
-| SaaS | [timblo.io](https://timblo.io/ko) | AI 회의록 · 250+ 기업 | 제품 · B2B/B2C |
-| App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI 회의녹음/요약 | 앱 |
+| 기업 | [timbel.net](https://www.timbel.net/) | AI 음성 플랫폼 · B2B 서비스 허브 | 웹 기획 · 메시지 정리 · 리드 구조 · CMS 운영 |
+| 서비스 | [sorizava.com](https://www.sorizava.com/) | 속기 키보드 서비스 · AI 속기사 홍보 | SEO · 전환 구조 · 운영 최적화 |
+| 서비스 | [clipdesk.net](https://www.clipdesk.net/) | 영상 편집 서비스 · 크리에이터/기업 대상 | 런칭 지원 · 서비스 기획 · 커뮤니케이션 |
+| 콘텐츠 | [textarbiz.com](https://www.textarbiz.com/) | 자막/번역 서비스 · 글로벌사업부 | 서비스 커뮤니케이션 · 구조 정리 |
+| 글로벌 | [textarglobal.com](https://www.textarglobal.com/) | 글로벌 자막 서비스 · AI+Human workflow | 글로벌 커뮤니케이션 · 서비스 운영 지원 |
+| 플랫폼 | [worksfy.net](https://www.worksfy.net/) | 속기사 매칭 플랫폼 | 운영 구조 · 서비스 흐름 지원 |
+| SaaS | [timblo.io](https://timblo.io/ko) |  AI 회의록 SaaS · 250+ 기업 고객 | 제품 커뮤니케이션 · B2B 구조 설계 |
+| App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI 회의 녹음·요약 앱 | 앱 연계 커뮤니케이션 · 서비스 운영 지원 |
 
 ---
 
