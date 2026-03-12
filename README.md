@@ -107,7 +107,13 @@
 
 홈페이지 구축 후 고객 세그먼트별 서비스 소개서를 자동 발송하는 오토메이션을 설계하고, 각 부서장에게 배포하여 자율 운영 체계를 구축했다. 전사 리드는 대표 메일에서 통합 모니터링, 개별 부서 메일로 분산 대응이 동시에 가능한 구조.
 
-![리드 자동화 오토메이션 설정 화면](assets/lead-automation.png)
+<details>
+<summary>리드 자동화 오토메이션 상세 보기</summary>
+<br>
+
+<img src="assets/lead-automation.png" alt="리드 자동화 오토메이션 설정 화면" width="600">
+
+</details>
 
 ```mermaid
 flowchart LR
