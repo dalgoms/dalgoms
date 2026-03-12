@@ -118,7 +118,7 @@ flowchart LR
 | Status | 프로젝트 | 문제 | 해결 |
 |---|---|---|---|
 | LIVE | [WebScout](https://webscout-next-8veo.vercel.app/) | 경쟁사 구조와 SEO 기회 분석에 많은 시간이 소요됨 | 자동 크롤링과 시각화를 통해 분석 시간을 대폭 단축 |
-| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | 자동 크롤링과 시각화를 통해 분석 시간을 대폭 단축 |AI 카피 변형과 자동화로 제작 시간 절감 |
+| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 변형과 자동화로 제작 시간 절감 |
 | LIVE | [MEFIMAKE](https://mefimake.vercel.app/) | 광고 소재 제작 흐름이 수작업 중심이었음 | AI 카피 변형 + 시간 절감 |
 | INT | Biz Automation | 리드 관리부터 팔로업까지 수동 업무 비중이 높았음 | Make.com과 Notion CRM 기반 자동화 흐름 구축|
 
