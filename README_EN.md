@@ -91,14 +91,26 @@ Aligning the entire journey — media, landing, conversion — so that every dol
 
 ---
 
-## AI Automation
+## Growth Marketing OS
 
-| Status | Project | Problem | Solution |
+From analysis to creative, execution to measurement — self-built tools connected as a unified marketing operations system.
+
+```mermaid
+flowchart LR
+  A["Analyze\nWebScout"] --> B["Create\nAd Creative Tool"]
+  B --> C["Automate\nai_process"]
+  C --> D["Measure\nUTM + GA"]
+  D -->|"Data Feedback"| A
+```
+
+| Phase | Tool | Role | Status |
 |---|---|---|---|
-| LIVE | [WebScout](https://webscout-next-8veo.vercel.app/) | Too much time analyzing competitor structures and SEO gaps | Auto-crawling and visualization dramatically cut analysis time |
-| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | Manual, repetitive ad creative production per platform | AI copy variations and automation reduced production time |
-| LIVE | [MEFIMAKE](https://mefimake.vercel.app/) | Manual-centric ad creative workflow | AI copy variations + time savings |
-| INT | Biz Automation | High volume of manual work from lead management to follow-up | Built automation flows with Make.com and Notion CRM |
+| **Analyze** | [WebScout](https://webscout-next-8veo.vercel.app/) | Site structure crawling · IA/SEO visualization · AI diagnostic reports | LIVE |
+| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy generation · multi-size automation | LIVE |
+| **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub→Deploy pipeline · CRM automation | LIVE |
+| **Measure** | UTM + GA + Wix | Channel-level conversion tracking · funnel analysis | LIVE |
+
+> All 4 phases were personally designed and developed, and are actively used in production.
 
 ---
 

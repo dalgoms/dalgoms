@@ -91,14 +91,26 @@
 
 ---
 
-## AI Automation
+## Growth Marketing OS
 
-| Status | 프로젝트 | 문제 | 해결 |
+분석부터 크리에이티브, 실행, 측정까지 — 직접 구축한 도구들이 하나의 마케팅 운영 시스템으로 연결됩니다.
+
+```mermaid
+flowchart LR
+  A["Analyze\nWebScout"] --> B["Create\nAd Creative Tool"]
+  B --> C["Automate\nai_process"]
+  C --> D["Measure\nUTM + GA"]
+  D -->|"데이터 피드백"| A
+```
+
+| Phase | 도구 | 역할 | 상태 |
 |---|---|---|---|
-| LIVE | [WebScout](https://webscout-next-8veo.vercel.app/) | 경쟁사 구조와 SEO 기회 분석에 많은 시간이 소요됨 | 자동 크롤링과 시각화를 통해 분석 시간을 대폭 단축 |
-| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 변형과 자동화로 제작 시간 절감 |
-| LIVE | [MEFIMAKE](https://mefimake.vercel.app/) | 광고 소재 제작 흐름이 수작업 중심이었음 | AI 카피 변형 + 시간 절감 |
-| INT | Biz Automation | 리드 관리부터 팔로업까지 수동 업무 비중이 높았음 | Make.com과 Notion CRM 기반 자동화 흐름 구축|
+| **Analyze** | [WebScout](https://webscout-next-8veo.vercel.app/) | 사이트 구조 크롤링 · IA/SEO 시각화 · AI 진단 리포트 | LIVE |
+| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI 카피 생성 · 멀티사이즈 자동화 | LIVE |
+| **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub→배포 파이프라인 · CRM 자동화 | LIVE |
+| **Measure** | UTM + GA + Wix | 채널별 전환 추적 · 퍼널 분석 | LIVE |
+
+> 4개 단계 모두 직접 설계·개발했으며, 실제 업무에서 운용 중인 시스템입니다.
 
 ---
 
