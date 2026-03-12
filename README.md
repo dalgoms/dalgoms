@@ -71,7 +71,7 @@ flowchart LR
 |---|---|
 | 레거시 서비스 구조로 인해 리드와 전환 효율의 정체 | UTM 기반 A/B 테스트 시스템 구축, 전환 병목를 재정비해 리드 확장 재설계 |
 
-[sorizava.com](https://www.sorizava.com/)
+[sorizava.com](https://www.sorizava.com/) · [Performance Report](reports/2025-website-performance.md) · [CRO Strategy](reports/2025-cro-strategy.md)
 
 ---
 
