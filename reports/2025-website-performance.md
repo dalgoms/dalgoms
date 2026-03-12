@@ -4,15 +4,27 @@
 
 > 트래픽 2배, 전환 10배 — 모바일과 소셜 미디어가 주도한 한 해
 
-![2025 웹사이트 방문자 트래픽 및 행동 성과 리포트](../assets/2025-performance-infographic.png)
+![Cover](../assets/report-01-cover.png)
 
-<details>
-<summary><strong>상세 리포트 전체 보기 (클릭)</strong></summary>
-<br>
+![양적 폭발 & 질적 지표](../assets/report-02-volume.png)
 
-<img src="https://raw.githubusercontent.com/dalgoms/dalgoms/main/assets/2025-performance-report-full.png" alt="2025 소리자바 웹사이트 성과 및 방문자 광도 리포트" width="100%">
+![하이퍼 그로스](../assets/report-03-hypergrowth.png)
 
-</details>
+![메타 광고 중심 유입 플랫폼 재편](../assets/report-04-meta.png)
+
+![방문자 DNA: 모바일 98% & 타겟 페르소나](../assets/report-05-audience.png)
+
+![3대 앵커 랜딩 페이지](../assets/report-06-anchor.png)
+
+![양식 제출의 기적: 17,063건](../assets/report-07-conversion.png)
+
+![사용자를 움직인 CTA](../assets/report-08-cta.png)
+
+![트래픽 병목 현상: 첫 페이지 누수](../assets/report-09-bottleneck.png)
+
+![성장의 역설 진단](../assets/report-10-paradox.png)
+
+![2026 액션 플랜](../assets/report-11-action.png)
 
 ---
 
