@@ -1,6 +1,5 @@
 # 이세영
-
-# Growth Marketing Lead · Strategy, Web & Automation
+### Growth Marketing Lead · Strategy, Web & Automation
 
 **팀벨(Timbel)** · 홍보 마케팅 팀장 · 10년+
 
