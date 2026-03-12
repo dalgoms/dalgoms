@@ -135,6 +135,6 @@ flowchart LR
 
 ## Contact
 
-Growth Marketing · Website Ops · CRM · AI Automation 포지션에 관심이 있습니다.
+Growth Marketing, Website Ops, CRM, AI Automation 분야의 기회에 열려 있습니다.
 
 **Email** seyoung8967@gmail.com · **LinkedIn** [linkedin.com/in/seyounglees](https://www.linkedin.com/in/seyounglees/)
