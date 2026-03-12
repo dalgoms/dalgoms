@@ -9,6 +9,8 @@
 * 10년+ 마케팅 전략 수립 및 리드 파이프라인 시스템 자동화 경력 (연간 8~15억 규모의 광고 예산 운용 및 최적화 경험)
 
 > [Full Performance Report (2025)](reports/2025-website-performance.md) — 채널별 성과, 전환 퍼널, 핵심 인사이트 상세 분석
+>
+> [CRO Strategy (2025)](reports/2025-cro-strategy.md) — 데이터 기반 UX 및 전환율 최적화 전략
 
 ---
 
