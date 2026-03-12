@@ -18,32 +18,19 @@
 
 ---
 
-## What I Do
-**최적의 매체 믹스와 완결형 UX의 결합으로 성과를 자산화합니다.**
-
-단순히 광고 예산을 집행하는 것에 그치지 않고, 투입된 비용이 비즈니스의 실질적인 리드(Lead)로 전환될 수 있도록 '매체-랜딩-전환'의 전 과정을 유기적으로 정렬합니다. 특히 2025년 한 해 동안 98%에 달하는 모바일 환경에 맞춘 전용 랜딩 페이지를 구축하여, 트래픽 증가분보다 훨씬 가파른 10배 이상의 전환 성장을 이끌어냈습니다.
-
-광고 클릭 직후 발생하는 91%의 반송률을 분석하여 목적 지향적인 '/livesteno' 앵커 페이지와 같은 구조적 해법을 제시합니다. 사용자가 정보를 탐색하는 수고를 덜고 즉각적인 신청과 구입으로 이어지도록 **직관적인 CTA(행동 유도 버튼)**를 배치하여 전환의 질을 극대화했습니다. 예산은 성장의 연료일 뿐, 그 연료를 가장 완벽하게 성과로 태워내는 '고성능 엔진'과 같은 시스템을 만드는 것이 저의 역할입니다.
-
----
-
-## How I Work
-
-```mermaid
-flowchart LR
-  A["매체 믹스 & 타겟팅"] --> B["고효율 랜딩 구조 설계"]
-  B --> C["전환 완결형 UX 구축"]
-  C --> D["데이터 기반 성과 자산화"]
-  D -->|"최적화 피드백"| A
-```
-
-| 분석 기반 기획 | 웹사이트 풀스택 운영 | AI 자동화 설계 |
-|:---:|:---:|:---:|
-| 유입 가설 검증 및 최적화 | 매끄러운 고객 여정 설계 | 반복 업무 제거 및 운영 효율화 |
-
----
-
 ## Featured Work
+
+### SORIZAVA
+
+> 핵심 매출 서비스 · AI 속기사 인지 확보 · 풀퍼널 마케팅 
+
+| 문제 | 해결 |
+|---|---|
+| 레거시 서비스 구조로 인해 리드와 전환 효율의 정체 | UTM 기반 A/B 테스트 시스템 구축, 전환 병목를 재정비해 리드 확장 재설계 |
+
+[sorizava.com](https://www.sorizava.com/) · [Performance Report](reports/2025-website-performance.md) · [CRO Strategy](reports/2025-cro-strategy.md)
+
+---
 
 ### Timblo
 
@@ -69,18 +56,6 @@ flowchart LR
 
 ---
 
-### SORIZAVA
-
-> 핵심 매출 서비스 · AI 속기사 인지 확보 · 풀퍼널 마케팅 
-
-| 문제 | 해결 |
-|---|---|
-| 레거시 서비스 구조로 인해 리드와 전환 효율의 정체 | UTM 기반 A/B 테스트 시스템 구축, 전환 병목를 재정비해 리드 확장 재설계 |
-
-[sorizava.com](https://www.sorizava.com/) · [Performance Report](reports/2025-website-performance.md) · [CRO Strategy](reports/2025-cro-strategy.md)
-
----
-
 ### Ad Creative Tool
 
 > 광고 크리에이티브 자동화 시스템 · Next.js · GPT-4o · Supabase
@@ -90,6 +65,37 @@ flowchart LR
 | 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 생성, 템플릿 렌더링, 멀티사이즈 자동화를 결합한 제작 시스템 구축 |
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool)
+
+---
+
+## What I Do
+
+**최적의 매체 믹스와 완결형 UX의 결합으로 성과를 자산화합니다.**
+
+투입된 비용이 비즈니스의 실질적인 리드(Lead)로 전환될 수 있도록 '매체-랜딩-전환'의 전 과정을 유기적으로 정렬합니다. 98% 모바일 환경에 맞춘 전용 랜딩 페이지 구축과 91% 반송률을 해결하는 앵커 페이지 설계로, 트래픽 2배 성장 대비 10배의 전환 성장을 이끌어냈습니다.
+
+```mermaid
+flowchart LR
+  A["매체 믹스 & 타겟팅"] --> B["고효율 랜딩 구조 설계"]
+  B --> C["전환 완결형 UX 구축"]
+  C --> D["데이터 기반 성과 자산화"]
+  D -->|"최적화 피드백"| A
+```
+
+| 분석 기반 기획 | 웹사이트 풀스택 운영 | AI 자동화 설계 |
+|:---:|:---:|:---:|
+| 유입 가설 검증 및 최적화 | 매끄러운 고객 여정 설계 | 반복 업무 제거 및 운영 효율화 |
+
+---
+
+## AI Automation
+
+| Status | 프로젝트 | 문제 | 해결 |
+|---|---|---|---|
+| LIVE | [WebScout](https://webscout-next-8veo.vercel.app/) | 경쟁사 구조와 SEO 기회 분석에 많은 시간이 소요됨 | 자동 크롤링과 시각화를 통해 분석 시간을 대폭 단축 |
+| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 변형과 자동화로 제작 시간 절감 |
+| LIVE | [MEFIMAKE](https://mefimake.vercel.app/) | 광고 소재 제작 흐름이 수작업 중심이었음 | AI 카피 변형 + 시간 절감 |
+| INT | Biz Automation | 리드 관리부터 팔로업까지 수동 업무 비중이 높았음 | Make.com과 Notion CRM 기반 자동화 흐름 구축|
 
 ---
 
@@ -114,17 +120,6 @@ flowchart LR
 | 플랫폼 | [worksfy.net](https://www.worksfy.net/) | 속기사 매칭 플랫폼 | 운영 구조 · 서비스 흐름 지원 |
 | SaaS | [timblo.io](https://timblo.io/ko) |  AI 회의록 SaaS · 250+ 기업 고객 | 제품 커뮤니케이션 · B2B 구조 설계 |
 | App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI 회의 녹음·요약 앱 | 앱 연계 커뮤니케이션 · 서비스 운영 지원 |
-
----
-
-## AI Automation
-
-| Status | 프로젝트 | 문제 | 해결 |
-|---|---|---|---|
-| LIVE | [WebScout](https://webscout-next-8veo.vercel.app/) | 경쟁사 구조와 SEO 기회 분석에 많은 시간이 소요됨 | 자동 크롤링과 시각화를 통해 분석 시간을 대폭 단축 |
-| LIVE | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | 플랫폼별 광고 소재를 수작업으로 반복 제작 | AI 카피 변형과 자동화로 제작 시간 절감 |
-| LIVE | [MEFIMAKE](https://mefimake.vercel.app/) | 광고 소재 제작 흐름이 수작업 중심이었음 | AI 카피 변형 + 시간 절감 |
-| INT | Biz Automation | 리드 관리부터 팔로업까지 수동 업무 비중이 높았음 | Make.com과 Notion CRM 기반 자동화 흐름 구축|
 
 ---
 
