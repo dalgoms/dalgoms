@@ -6,7 +6,13 @@
 
 ![2025 웹사이트 방문자 트래픽 및 행동 성과 리포트](../assets/2025-performance-infographic.png)
 
-**[상세 리포트 전체 보기 (원본 이미지)](../assets/2025-performance-report-full.png)**
+<details>
+<summary><strong>상세 리포트 전체 보기 (클릭)</strong></summary>
+<br>
+
+<img src="https://raw.githubusercontent.com/dalgoms/dalgoms/main/assets/2025-performance-report-full.png" alt="2025 소리자바 웹사이트 성과 및 방문자 광도 리포트" width="100%">
+
+</details>
 
 ---
 
