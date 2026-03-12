@@ -59,11 +59,11 @@
 
 ### WebScout
 
-> 자체 구축 분석 도구 · Next.js · Vercel
+> 자체 구축 분석 도구 · Next.js · Vercel · GPT-4o
 
 | 문제 | 해결 |
 |---|---|
-| 경쟁사 사이트 구조와 SEO 기회를 파악하는 데 많은 시간이 소요됨 | 자동 크롤링 기반으로 IA·SEO 클러스터를 시각화해 분석 시간을 대폭 단축 |
+| 경쟁사 사이트 구조와 SEO 기회를 파악하는 데 많은 시간이 소요됨 | 자동 크롤링 + GPT-4o 기반 AI 진단 리포트로 구조 분석부터 성장 기회 도출까지 자동화 |
 
 [Live Demo](https://webscout-next-8veo.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
 

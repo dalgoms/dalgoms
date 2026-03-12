@@ -59,11 +59,11 @@ Designed UTM codes directly during ad setup to automatically capture which chann
 
 ### WebScout
 
-> Self-built analysis tool · Next.js · Vercel
+> Self-built analysis tool · Next.js · Vercel · GPT-4o
 
 | Problem | Solution |
 |---|---|
-| Excessive time spent analyzing competitor site structures and SEO opportunities | Built auto-crawling system to visualize IA and SEO clusters, dramatically reducing analysis time |
+| Excessive time spent analyzing competitor site structures and SEO opportunities | Auto-crawling + GPT-4o AI diagnostic reports automate everything from structure analysis to growth opportunity identification |
 
 [Live Demo](https://webscout-next-8veo.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
 
