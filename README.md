@@ -2,7 +2,7 @@
 
 # Growth Marketing Lead · Strategy, Web & Automation
 
-**팀벨(Timbel)** · 홍보마케팅팀장 · 10년+
+**팀벨(Timbel)** · 홍보 마케팅 팀장 · 10년+
 
 ## Core Results
 * 연간 **8~15억 규모** 광고 예산 운용 및 매체 믹스 최적화 (10년+ 연속)
