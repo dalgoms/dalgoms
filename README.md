@@ -30,9 +30,15 @@
 
 광고 세팅 시 UTM 코드를 직접 설계하여, 어떤 채널·소재·키워드를 통해 유입되었는지 양식 제출 데이터에 자동 기록되도록 구축. Wix 폼 + 숨김 필드 + Velo 코드를 조합한 엔드투엔드 추적 시스템으로, 상담 전환 부서에 고객의 관심사와 유입 맥락을 사전 전달하여 상담 품질을 높였다.
 
-![UTM 추적이 적용된 양식 및 Velo 코드](assets/utm-tracking-form.png)
+<details>
+<summary>UTM 추적 시스템 상세 보기</summary>
+<br>
 
-![UTM 캠페인 그룹별 리드 데이터](assets/utm-tracking-db.png)
+<img src="assets/utm-tracking-form.png" alt="UTM 추적이 적용된 양식 및 Velo 코드" width="600">
+
+<img src="assets/utm-tracking-db.png" alt="UTM 캠페인 그룹별 리드 데이터" width="600">
+
+</details>
 
 [sorizava.com](https://www.sorizava.com/) · [Performance Report](reports/2025-website-performance.md) · [CRO Strategy](reports/2025-cro-strategy.md)
 
