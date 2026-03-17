@@ -90,7 +90,7 @@ Drove GTM execution from product positioning to segment-specific (SMB, mid-marke
 |---|---|
 | Excessive time spent analyzing competitor site structures and SEO opportunities | Auto-crawling + GPT-4o AI diagnostic reports automate everything from structure analysis to growth opportunity identification |
 
-[Live Demo](https://webscout-next-8veo.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
+[Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
 
 ---
 
@@ -130,7 +130,7 @@ flowchart LR
 
 | Phase | Tool | Role | Status |
 |---|---|---|---|
-| **Analyze** | [WebScout](https://webscout-next-8veo.vercel.app/) | Site structure crawling · IA/SEO visualization · AI diagnostic reports | LIVE |
+| **Analyze** | [WebScout](https://webscout-next.vercel.app/) | Site structure crawling · IA/SEO visualization · AI diagnostic reports | LIVE |
 | **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy generation · multi-size automation | LIVE |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub→Deploy pipeline · CRM automation | LIVE |
 | **Measure** | UTM + GA + Wix | Channel-level conversion tracking · funnel analysis | LIVE |

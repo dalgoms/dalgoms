@@ -90,7 +90,7 @@
 |---|---|
 | 경쟁사 사이트 구조와 SEO 기회를 파악하는 데 많은 시간이 소요됨 | 자동 크롤링 + GPT-4o 기반 AI 진단 리포트로 구조 분석부터 성장 기회 도출까지 자동화 |
 
-[Live Demo](https://webscout-next-8veo.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
+[Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
 
 ---
 
@@ -130,7 +130,7 @@ flowchart LR
 
 | Phase | 도구 | 역할 | 상태 |
 |---|---|---|---|
-| **Analyze** | [WebScout](https://webscout-next-8veo.vercel.app/) | 사이트 구조 크롤링 · IA/SEO 시각화 · AI 진단 리포트 | LIVE |
+| **Analyze** | [WebScout](https://webscout-next.vercel.app/) | 사이트 구조 크롤링 · IA/SEO 시각화 · AI 진단 리포트 | LIVE |
 | **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI 카피 생성 · 멀티사이즈 자동화 | LIVE |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub→배포 파이프라인 · CRM 자동화 | LIVE |
 | **Measure** | UTM + GA + Wix | 채널별 전환 추적 · 퍼널 분석 | LIVE |
