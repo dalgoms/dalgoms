@@ -33,7 +33,7 @@
 
 경쟁사 사이트를 하나하나 뜯어보는 데 시간이 너무 많이 들어서 직접 만들었습니다. URL을 넣으면 사이트 구조를 크롤링하고 GPT-4o가 진단 리포트를 생성합니다.
 
-[Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next) · Next.js, TypeScript, Vercel
+[Live Demo](https://webscout-next.vercel.app/) · Next.js, TypeScript, Vercel
 
 ### Ad Creative Tool — 광고 소재 자동화
 
