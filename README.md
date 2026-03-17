@@ -1,17 +1,40 @@
 # 이세영
-### Growth Marketing Lead · Strategy, Web & Automation
+### Growth Marketing Lead · AI SaaS · B2B/B2C · Builder
 
 **한국어** | [English](README_EN.md)
 
 **팀벨(Timbel)** · 홍보 마케팅 팀장 · 10년+
 
+전략을 세우고, 구조를 만들고, **직접 코드로 실행합니다.**
+
+마케팅 성과를 만드는 것에서 끝나지 않고, 성과를 만드는 **시스템 자체를 직접 설계하고 빌드**하는 마케터입니다.
+10년간 연간 8~15억 규모의 멀티채널 캠페인을 운영하며, AI 제품의 B2B/B2C 성장을 이끌었습니다.
+
+> **14x** 리드 성장 · **650%** ROAS · **1,078%** 전환 폭증 · **₩72억** 매출 · **250+** B2B 기업 고객 · **8** 라이브 서비스 운영
+
+---
+
+## Why Me — 3가지 차별점
+
+### 1. 한국 시장을 아는 AI 마케터
+10년간 네이버·카카오·메타·구글 한국 시장에서 실전 운영. 한국 B2B 구매 프로세스, 미디어 생태계, 규제 환경을 체화한 실행 역량.
+
+### 2. 직접 만드는 마케터 (Builder Marketer)
+마케팅 병목을 발견하면 코드로 해결합니다. AI 기반 경쟁사 분석 도구, 광고 소재 자동화 시스템, 리드 관리 파이프라인을 직접 설계·개발·배포.
+
+### 3. 검증된 풀퍼널 성과
+유입에서 전환까지 전 과정을 설계. 트래픽 2배 성장 대비 전환 10배 성장이라는 구조적 성과를 만들어냈습니다.
+
+---
+
 ## Core Results
-* 연간 **8~15억 규모** 광고 예산 운용 및 매체 믹스 최적화 (10년+ 연속)
-* 연간 316.4만 세션 달성 (+104%) 및 1,078% 전환 폭증 (양식 제출 17,063건 확보)
-* Meta(FB/IG) 유료 검색 유입 약 1,000% 증가 견인 및 매체 믹스 최적화
-* 신규 방문자 비중 94% 달성 및 수도권 핵심 타겟 페르소나 집중 공략
-* 10명+ 규모 홍보마케팅팀 운영 · 디자이너, 마케터, 프론트엔지니어, 영상팀 등 다직군 리드 · 전 부서 협업 총괄
-* 사업 기회에 따라 팀 → 부서 독립 운영으로 확장, 신규 서비스 런칭부터 풀퍼널 마케팅까지 일관 수행
+
+* 연간 **8~15억 규모** 광고 예산 운용, 매체 믹스 최적화 (10년+ 연속)
+* 매출 **52억 → 72억** 성장, **ROAS 650%** 달성
+* 연간 **316.4만 세션** (+104% YoY) 및 **1,078% 전환 폭증** (양식 제출 17,063건)
+* Meta(FB/IG) 유료 검색 유입 약 **1,000% 증가** 견인
+* SK hynix · SK Telecom 공동 AI SaaS 서비스 런칭, **매출 11억** 달성
+* 10명+ 규모 다직군 팀 리드 · 전 부서 협업 총괄
 
 > [Full Performance Report (2025)](reports/2025-website-performance.md) — 채널별 성과, 전환 퍼널, 핵심 인사이트 상세 분석
 >
@@ -23,11 +46,11 @@
 
 ### SORIZAVA
 
-> 핵심 매출 서비스 · AI 속기사 인지 확보 · 풀퍼널 마케팅 
+> 핵심 매출 서비스 · AI 속기사 인지 확보 · 풀퍼널 마케팅
 
 | 문제 | 해결 |
 |---|---|
-| 레거시 서비스 구조로 인해 리드와 전환 효율의 정체 | UTM 기반 A/B 테스트 시스템 구축, 전환 병목를 재정비해 리드 확장 재설계 |
+| 레거시 서비스 구조로 인해 리드와 전환 효율의 정체 | UTM 기반 A/B 테스트 시스템 구축, 전환 병목을 재정비해 리드 확장 재설계 |
 
 광고 세팅 시 UTM 코드를 직접 설계하여, 어떤 채널·소재·키워드를 통해 유입되었는지 양식 제출 데이터에 자동 기록되도록 구축. Wix 폼 + 숨김 필드 + Velo 코드를 조합한 엔드투엔드 추적 시스템으로, 상담 전환 부서에 고객의 관심사와 유입 맥락을 사전 전달하여 상담 품질을 높였다.
 
@@ -45,21 +68,23 @@
 
 ---
 
-### Timblo
+### Timblo — AI 회의록 SaaS
 
-> AI 회의록 SaaS · SK hynix & SK telecom 공동 서비스 오픈 · 마케팅 협업
+> B2B SaaS · 250+ 기업 고객 · SK hynix & SK Telecom 공동 런칭
 
 | 문제 | 해결 |
 |---|---|
 | B2B/B2C 채널이 분산되어 있고 앱·웹·스토어 메시지가 일관되지 않음 | 웹·앱·스토어를 아우르는 통합 커뮤니케이션 구조와 채널별 전환 흐름 설계 |
 
+제품 포지셔닝부터 세그먼트별(SMB·미드마켓·엔터프라이즈) 메시지 분리, B2B 온보딩 플로우, 영업 지원 자료까지 GTM 전반을 설계·실행.
+
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
 
 ---
 
-### WebScout
+### WebScout — 경쟁사 인텔리전스 자동화
 
-> 자체 구축 분석 도구 · Next.js · Vercel · GPT-4o
+> 자체 구축 · Next.js · Vercel · GPT-4o · 프로덕션 배포 완료
 
 | 문제 | 해결 |
 |---|---|
@@ -69,9 +94,9 @@
 
 ---
 
-### Ad Creative Tool
+### Ad Creative Tool — 광고 소재 자동화
 
-> 광고 크리에이티브 자동화 시스템 · Next.js · GPT-4o · Supabase
+> 자체 구축 · Next.js · GPT-4o · Supabase · 프로덕션 배포 완료
 
 | 문제 | 해결 |
 |---|---|
@@ -144,7 +169,7 @@ flowchart LR
 | 콘텐츠 | [textarbiz.com](https://www.textarbiz.com/) | 자막/번역 서비스 · 글로벌사업부 | 서비스 커뮤니케이션 · 구조 정리 |
 | 글로벌 | [textarglobal.com](https://www.textarglobal.com/) | 글로벌 자막 서비스 · AI+Human workflow | 글로벌 커뮤니케이션 · 서비스 운영 지원 |
 | 플랫폼 | [worksfy.net](https://www.worksfy.net/) | 속기사 매칭 플랫폼 | 운영 구조 · 서비스 흐름 지원 |
-| SaaS | [timblo.io](https://timblo.io/ko) |  AI 회의록 SaaS · 250+ 기업 고객 | 제품 커뮤니케이션 · B2B 구조 설계 |
+| SaaS | [timblo.io](https://timblo.io/ko) | AI 회의록 SaaS · 250+ 기업 고객 | 제품 커뮤니케이션 · B2B 구조 설계 |
 | App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI 회의 녹음·요약 앱 | 앱 연계 커뮤니케이션 · 서비스 운영 지원 |
 
 ---
@@ -153,17 +178,17 @@ flowchart LR
 
 | 분류 | 기술 | 역할 |
 |---|---|---|
-| Website Ops | Wix · SEO · GA | 도메인·CMS·DB·폼·리드 플로우 운영 |
-| AI / Automation | GPT · Claude · Make.com · Notion API | 카피 생성·워크플로우·리드 자동화 |
-| Dev | Next.js · TypeScript · Vercel | 내부 도구·분석 시스템 구축 |
+| Website Ops | Wix · SEO · GA4 | 도메인·CMS·DB·폼·리드 플로우 운영 |
+| AI / Automation | GPT · Claude · Cursor · Make.com · Notion API | 카피 생성·워크플로우·리드 자동화 |
+| Dev | Next.js · TypeScript · Node.js · Vercel | AI 도구·분석 시스템 구축 |
 | Design | Figma · PS · AI · Premiere | 기획 시각화·소재 제작 |
-| Analysis | UTM · A/B · 퍼널 분석 | 성과 측정·전환 최적화 |
-| Messaging | Telegram Bot · Gmail · KakaoTalk | 자동 알림·팔로업 |
+| Analysis | UTM · A/B Testing · 퍼널 분석 | 성과 측정·전환 최적화 |
+| Messaging | Telegram Bot · Slack · Gmail · KakaoTalk | 자동 알림·팔로업 |
 
 ---
 
 ## Contact
 
-Growth Marketing, Website Ops, CRM, AI Automation 분야의 기회에 열려 있습니다.
+**AI SaaS · Growth Marketing · B2B Demand Gen · 마케팅 자동화** 분야의 기회에 열려 있습니다.
 
 **Email** seyoung8967@gmail.com · **LinkedIn** [linkedin.com/in/seyounglees](https://www.linkedin.com/in/seyounglees/)

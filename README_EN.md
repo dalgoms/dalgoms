@@ -1,17 +1,40 @@
 # Seyoung Lee
-### Growth Marketing Lead · Strategy, Web & Automation
-
-**Timbel** · Head of Marketing & PR · 10+ Years
+### Growth Marketing Lead · AI SaaS · B2B/B2C · Builder
 
 [한국어](README.md) | **English**
 
+**Timbel** · Head of Marketing & PR · 10+ Years
+
+I plan the strategy, design the structure, and **ship it myself in code.**
+
+I'm not just a marketer who drives results — I'm a marketer who **builds the systems that produce results.**
+10+ years running multi-channel campaigns at ₩800M–1.5B (~$600K–$1.1M) annual budgets, driving B2B/B2C growth for AI products.
+
+> **14x** lead growth · **650%** ROAS · **1,078%** conversion surge · **₩7.2B** revenue · **250+** B2B enterprise clients · **8** live services
+
+---
+
+## Why Me — 3 Differentiators
+
+### 1. Deep Korean Market Expertise
+10 years operating across Naver, Kakao, Meta, and Google in Korea. Battle-tested understanding of Korean B2B procurement, media ecosystem, and regulatory landscape.
+
+### 2. Builder Marketer — I Ship, Not Just Strategize
+When I spot a marketing bottleneck, I solve it with code. I design, develop, and deploy AI-powered competitive intelligence tools, ad creative automation systems, and lead management pipelines.
+
+### 3. Proven Full-Funnel Results
+Architect of the entire acquisition-to-conversion pipeline. Delivered 10x conversion growth against 2x traffic growth — structural, compounding results.
+
+---
+
 ## Core Results
-* Managed **annual ad budgets of ₩800M–1.5B** (~$600K–$1.1M) with continuous media mix optimization for 10+ years
-* Achieved 3.16M annual sessions (+104% YoY) and 1,078% conversion surge (17,063 form submissions)
-* Drove ~1,000% increase in Meta (FB/IG) paid search acquisition and optimized channel mix
-* Reached 94% new visitor ratio with focused targeting on key metropolitan personas
-* Led 10+ member cross-functional marketing team — designers, marketers, front-end engineers, video production — with full cross-departmental collaboration
-* Scaled team to independent department as business opportunities grew, managing end-to-end from new service launches to full-funnel marketing
+
+* Managed **₩800M–1.5B annual ad budgets** (~$600K–$1.1M) with continuous media mix optimization for 10+ years
+* Grew revenue **₩5.2B → ₩7.2B**, achieved **650% ROAS**
+* Built **3.16M annual sessions** (+104% YoY) with **1,078% conversion surge** (17,063 form submissions)
+* Drove **~1,000% increase** in Meta (FB/IG) paid search acquisition
+* Co-launched AI SaaS with SK hynix & SK Telecom, achieving **₩1.1B revenue**
+* Led **10+ member** cross-functional team with full cross-departmental collaboration
 
 > [Full Performance Report (2025)](reports/2025-website-performance-en.md) — Channel performance, conversion funnel, key insights
 >
@@ -45,21 +68,23 @@ Designed UTM codes directly during ad setup to automatically capture which chann
 
 ---
 
-### Timblo
+### Timblo — AI Meeting Minutes SaaS
 
-> AI Meeting Minutes SaaS · Joint service launch with SK hynix & SK telecom · Marketing collaboration
+> B2B SaaS · 250+ enterprise clients · Joint launch with SK hynix & SK Telecom
 
 | Problem | Solution |
 |---|---|
 | Fragmented B2B/B2C channels with inconsistent messaging across app, web, and store | Designed unified communication structure and channel-specific conversion flows across web, app, and store |
 
+Drove GTM execution from product positioning to segment-specific (SMB, mid-market, enterprise) messaging, B2B onboarding flows, and sales enablement materials.
+
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
 
 ---
 
-### WebScout
+### WebScout — Competitive Intelligence Automation
 
-> Self-built analysis tool · Next.js · Vercel · GPT-4o
+> Self-built · Next.js · Vercel · GPT-4o · Production deployed
 
 | Problem | Solution |
 |---|---|
@@ -69,9 +94,9 @@ Designed UTM codes directly during ad setup to automatically capture which chann
 
 ---
 
-### Ad Creative Tool
+### Ad Creative Tool — Creative Automation
 
-> Ad creative automation system · Next.js · GPT-4o · Supabase
+> Self-built · Next.js · GPT-4o · Supabase · Production deployed
 
 | Problem | Solution |
 |---|---|
@@ -110,7 +135,7 @@ flowchart LR
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub→Deploy pipeline · CRM automation | LIVE |
 | **Measure** | UTM + GA + Wix | Channel-level conversion tracking · funnel analysis | LIVE |
 
-> All 4 phases were personally designed and developed, and are actively used in production.
+> All 4 phases were personally designed, developed, and are actively used in production.
 
 ---
 
@@ -153,17 +178,17 @@ flowchart LR
 
 | Category | Technologies | Role |
 |---|---|---|
-| Website Ops | Wix · SEO · GA | Domain · CMS · DB · forms · lead flow ops |
-| AI / Automation | GPT · Claude · Make.com · Notion API | Copy generation · workflow · lead automation |
-| Dev | Next.js · TypeScript · Vercel | Internal tools · analytics systems |
+| Website Ops | Wix · SEO · GA4 | Domain · CMS · DB · forms · lead flow ops |
+| AI / Automation | GPT · Claude · Cursor · Make.com · Notion API | Copy generation · workflow · lead automation |
+| Dev | Next.js · TypeScript · Node.js · Vercel | AI tools · analytics systems |
 | Design | Figma · PS · AI · Premiere | Planning visualization · creative production |
-| Analysis | UTM · A/B · Funnel Analysis | Performance measurement · conversion optimization |
-| Messaging | Telegram Bot · Gmail · KakaoTalk | Automated alerts · follow-up |
+| Analysis | UTM · A/B Testing · Funnel Analysis | Performance measurement · conversion optimization |
+| Messaging | Telegram Bot · Slack · Gmail · KakaoTalk | Automated alerts · follow-up |
 
 ---
 
 ## Contact
 
-Open to opportunities in Growth Marketing, Website Ops, CRM, and AI Automation.
+Open to opportunities in **AI SaaS · Growth Marketing · B2B Demand Gen · Marketing Automation**.
 
 **Email** seyoung8967@gmail.com · **LinkedIn** [linkedin.com/in/seyounglees](https://www.linkedin.com/in/seyounglees/)
