@@ -35,11 +35,17 @@
 
 [Live Demo](https://webscout-next.vercel.app/) · Next.js, TypeScript, Vercel
 
-### Ad Creative Tool — 광고 소재 자동화
+### Ad Creative Tool — 광고 소재 자동화 `진행중`
 
 플랫폼별로 소재를 일일이 만드는 반복 작업이 싫어서 만들었습니다. AI가 카피를 쓰고, 템플릿에 렌더링하고, 여러 사이즈로 내보냅니다.
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
+
+### AI Agent Forum — 멀티에이전트 토론 워크스페이스
+
+단일 AI의 관점 편향이 아쉬워서 만들었습니다. 시장분석가·경쟁분석가·영업전략가 3명의 AI 에이전트가 독립 분석 후 교차 토론하며 다각적 인사이트를 도출합니다. 데모 모드($0)와 라이브 모드(메가프롬프트 1회)의 듀얼 구조.
+
+[Live](https://mefimake.vercel.app) · [GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
 
 ### 리드 자동화 시스템
 
@@ -107,16 +113,19 @@ flowchart LR
   B --> C["Automate\nai_process"]
   C --> D["Measure\nUTM + GA"]
   D -->|"피드백"| A
+  D --> E["Insight\nAI Agent Forum"]
+  E -->|"멀티에이전트 인사이트"| A
 ```
 
 | Phase | 도구 | 역할 | 상태 |
 |---|---|---|---|
 | **Analyze** | [WebScout](https://webscout-next.vercel.app/) | 사이트 구조 크롤링 · AI 진단 리포트 | LIVE |
-| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI 카피 생성 · 멀티사이즈 자동화 | LIVE |
+| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI 카피 생성 · 멀티사이즈 자동화 | 진행중 |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub 파이프라인 · CRM 자동화 | LIVE |
 | **Measure** | UTM + GA + Wix | 채널별 전환 추적 · 퍼널 분석 | LIVE |
+| **Insight** | [AI Agent Forum](https://mefimake.vercel.app) | 멀티에이전트 토론 기반 시장·경쟁·세일즈 인사이트 | LIVE |
 
-> 4개 단계 모두 직접 만들었고, 실제 업무에서 쓰고 있습니다.
+> 5개 단계 모두 직접 만들었고, 실제 업무에서 쓰고 있습니다.
 
 ---
 

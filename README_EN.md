@@ -35,11 +35,17 @@ Analyzing competitor sites was eating up too much time, so I built a tool for it
 
 [Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next) · Next.js, TypeScript, Vercel
 
-### Ad Creative Tool — Ad Production Automation
+### Ad Creative Tool — Ad Production Automation `In Progress`
 
 Got tired of making the same ad in five different sizes for every platform. This tool generates AI copy, renders it on templates, and exports all sizes at once.
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
+
+### AI Agent Forum — Multi-Agent Discussion Workspace
+
+Single-AI analysis felt too one-dimensional, so I built a multi-agent forum. Three AI agents — Market Analyst, Competitive Analyst, and Sales Strategist — independently analyze a topic, then cross-debate each other to produce multi-perspective insights. Dual-mode design: Demo ($0) and Live (single mega-prompt).
+
+[Live](https://mefimake.vercel.app) · [GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
 
 ### Lead Automation System
 
@@ -107,16 +113,19 @@ flowchart LR
   B --> C["Automate\nai_process"]
   C --> D["Measure\nUTM + GA"]
   D -->|"Feedback"| A
+  D --> E["Insight\nAI Agent Forum"]
+  E -->|"Multi-Agent Insights"| A
 ```
 
 | Phase | Tool | What it does | Status |
 |---|---|---|---|
 | **Analyze** | [WebScout](https://webscout-next.vercel.app/) | Site crawling · AI diagnostic reports | LIVE |
-| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy · multi-size export | LIVE |
+| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy · multi-size export | In Progress |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub pipeline · CRM automation | LIVE |
 | **Measure** | UTM + GA + Wix | Channel tracking · funnel analysis | LIVE |
+| **Insight** | [AI Agent Forum](https://mefimake.vercel.app) | Multi-agent debate for market, competitive & sales insights | LIVE |
 
-> Built all four myself. They're all in active use.
+> Built all five myself. They're all in active use.
 
 ---
 
