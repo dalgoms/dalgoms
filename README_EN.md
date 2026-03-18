@@ -49,11 +49,6 @@ Got tired of making the same ad in five different sizes for every platform. This
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
 
-### AI Agent Forum — Multi-Agent Discussion Workspace
-
-Single-AI analysis felt too one-dimensional, so I built a multi-agent forum. Three AI agents — Market Analyst, Competitive Analyst, and Sales Strategist — independently analyze a topic, then cross-debate each other to produce multi-perspective insights. Dual-mode design: Demo ($0) and Live (single mega-prompt).
-
-[GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
 
 ### Lead Automation System
 
