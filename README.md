@@ -29,6 +29,14 @@
 
 ## 직접 만든 것들
 
+팀에서 반복되는 병목을 발견할 때마다, 직접 도구를 만들어서 해결했습니다. 만든 도구는 팀원에게 배포해서 실제 서칭·제작 시간을 줄이는 데 활용하고 있습니다.
+
+### MefiMake — Meta 광고 소재 생성기
+
+피그마를 자주 쓰는 콘텐츠 마케터·디자이너를 위한 도구입니다. 디자인을 잘 못하는 마케터도 잡혀 있는 템플릿으로 광고 소재를 빠르게 제작할 수 있게 만들었습니다. Safe Zone 가이드, Meta Library 연동, 캔버스 기반 편집 기능을 포함합니다.
+
+[Live](https://mefimake.vercel.app) · Next.js, Vercel
+
 ### WebScout — 경쟁사 사이트 분석 자동화
 
 경쟁사 사이트를 하나하나 뜯어보는 데 시간이 너무 많이 들어서 직접 만들었습니다. URL을 넣으면 사이트 구조를 크롤링하고 GPT-4o가 진단 리포트를 생성합니다.
@@ -45,7 +53,7 @@
 
 단일 AI의 관점 편향이 아쉬워서 만들었습니다. 시장분석가·경쟁분석가·영업전략가 3명의 AI 에이전트가 독립 분석 후 교차 토론하며 다각적 인사이트를 도출합니다. 데모 모드($0)와 라이브 모드(메가프롬프트 1회)의 듀얼 구조.
 
-[Live](https://mefimake.vercel.app) · [GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
+[GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
 
 ### 리드 자동화 시스템
 
@@ -105,11 +113,11 @@ Make.com, Notion API, GitHub Actions
 
 ## Growth Marketing OS
 
-직접 만든 도구들이 분석 → 제작 → 자동화 → 측정으로 이어지는 하나의 시스템입니다.
+팀의 병목을 해결하기 위해 직접 만든 도구들이 분석 → 제작 → 자동화 → 측정 → 인사이트로 이어지는 하나의 시스템입니다. 각 도구는 팀원에게 배포하여 실제 서칭·제작 시간을 줄이는 데 활용 중입니다.
 
 ```mermaid
 flowchart LR
-  A["Analyze\nWebScout"] --> B["Create\nAd Creative Tool"]
+  A["Analyze\nWebScout"] --> B["Create\nMefiMake · Ad Creative"]
   B --> C["Automate\nai_process"]
   C --> D["Measure\nUTM + GA"]
   D -->|"피드백"| A
@@ -120,12 +128,13 @@ flowchart LR
 | Phase | 도구 | 역할 | 상태 |
 |---|---|---|---|
 | **Analyze** | [WebScout](https://webscout-next.vercel.app/) | 사이트 구조 크롤링 · AI 진단 리포트 | LIVE |
+| **Create** | [MefiMake](https://mefimake.vercel.app) | Meta 광고 소재 생성 · 캔버스 기반 템플릿 편집 | LIVE |
 | **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI 카피 생성 · 멀티사이즈 자동화 | 진행중 |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub 파이프라인 · CRM 자동화 | LIVE |
 | **Measure** | UTM + GA + Wix | 채널별 전환 추적 · 퍼널 분석 | LIVE |
-| **Insight** | [AI Agent Forum](https://mefimake.vercel.app) | 멀티에이전트 토론 기반 시장·경쟁·세일즈 인사이트 | LIVE |
+| **Insight** | AI Agent Forum | 멀티에이전트 토론 기반 시장·경쟁·세일즈 인사이트 | LIVE |
 
-> 5개 단계 모두 직접 만들었고, 실제 업무에서 쓰고 있습니다.
+> 6개 도구 모두 직접 만들었고, 실제 업무에서 쓰고 있습니다.
 
 ---
 

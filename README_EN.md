@@ -29,6 +29,14 @@ I joined timbel when it was a professional shorthand company and have been there
 
 ## Things I Built
 
+Every tool here was born from a real bottleneck I found on the team. I built each one, deployed it to teammates, and it actually cut our research and production time significantly.
+
+### MefiMake — Meta Ad Creative Generator
+
+Built for content marketers and designers who live in Figma. Marketers who aren't designers can use locked-down templates to produce ad creatives fast. Includes Safe Zone guides, Meta Library integration, and a canvas-based editor.
+
+[Live](https://mefimake.vercel.app) · Next.js, Vercel
+
 ### WebScout — Competitive Site Analysis
 
 Analyzing competitor sites was eating up too much time, so I built a tool for it. Enter a URL, it crawls the structure, and GPT-4o generates a diagnostic report.
@@ -45,7 +53,7 @@ Got tired of making the same ad in five different sizes for every platform. This
 
 Single-AI analysis felt too one-dimensional, so I built a multi-agent forum. Three AI agents — Market Analyst, Competitive Analyst, and Sales Strategist — independently analyze a topic, then cross-debate each other to produce multi-perspective insights. Dual-mode design: Demo ($0) and Live (single mega-prompt).
 
-[Live](https://mefimake.vercel.app) · [GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
+[GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
 
 ### Lead Automation System
 
@@ -105,11 +113,11 @@ For ad spend to turn into real leads, the whole chain — media, landing, conver
 
 ## Growth Marketing OS
 
-The tools I built connect into one system: analyze → create → automate → measure.
+Every tool was built to solve a real bottleneck on the team. They connect into one system: analyze → create → automate → measure → insight.
 
 ```mermaid
 flowchart LR
-  A["Analyze\nWebScout"] --> B["Create\nAd Creative Tool"]
+  A["Analyze\nWebScout"] --> B["Create\nMefiMake · Ad Creative"]
   B --> C["Automate\nai_process"]
   C --> D["Measure\nUTM + GA"]
   D -->|"Feedback"| A
@@ -120,12 +128,13 @@ flowchart LR
 | Phase | Tool | What it does | Status |
 |---|---|---|---|
 | **Analyze** | [WebScout](https://webscout-next.vercel.app/) | Site crawling · AI diagnostic reports | LIVE |
+| **Create** | [MefiMake](https://mefimake.vercel.app) | Meta ad creative generator · canvas-based template editor | LIVE |
 | **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy · multi-size export | In Progress |
 | **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub pipeline · CRM automation | LIVE |
 | **Measure** | UTM + GA + Wix | Channel tracking · funnel analysis | LIVE |
-| **Insight** | [AI Agent Forum](https://mefimake.vercel.app) | Multi-agent debate for market, competitive & sales insights | LIVE |
+| **Insight** | AI Agent Forum | Multi-agent debate for market, competitive & sales insights | LIVE |
 
-> Built all five myself. They're all in active use.
+> Built all six myself. They're all in active use.
 
 ---
 
