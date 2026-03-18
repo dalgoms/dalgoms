@@ -49,12 +49,7 @@
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
 
-### AI Agent Forum — 멀티에이전트 토론 워크스페이스
-
-단일 AI의 관점 편향이 아쉬워서 만들었습니다. 시장분석가·경쟁분석가·영업전략가 3명의 AI 에이전트가 독립 분석 후 교차 토론하며 다각적 인사이트를 도출합니다. 데모 모드($0)와 라이브 모드(메가프롬프트 1회)의 듀얼 구조.
-
-[GitHub](https://github.com/dalgoms/agent-forum) · Next.js, OpenAI, Vercel
-
+##
 ### 리드 자동화 시스템
 
 Wix CMS로 리드를 받아서 Notion으로 넘기고, AI 에이전트가 반복 업무(데이터 보강, 태깅, 팔로업)를 처리합니다. 사람은 분석과 클로징에 집중하는 구조입니다.
