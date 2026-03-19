@@ -1,80 +1,112 @@
 # Seyoung Lee
-### Growth Marketer · AI Products · Web & Automation Builder
+
+**Growth Marketer · AI Automation · Builder**
+
+I build and operate growth systems — tracking, automation, tools, and campaigns.
+
+**14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **₩7.2B** revenue · **250+** enterprise clients
 
 [한국어](README.md) | **English**
 
+[About](#about) · [What I Do](#what-i-do) · [Selected Work](#selected-work) · [Growth & Performance](#growth--performance) · [Reports](#reports) · [Contact](#contact)
+
+---
+
+## About
+
 **timbel** · Head of Marketing & PR · 10+ years
 
-I joined timbel when it was a professional shorthand company and have been there through its full pivot to AI-powered speech recognition. Over that decade, every time the product changed, I rebuilt the marketing around it — new websites, new lead systems, new campaigns. When generative AI showed up in 2022, I started using it right away for ad creatives, landing pages, and campaign copy, which made a real difference in how fast we could test and iterate. Today I build and use my own AI tools in production every day.
+I joined timbel when it was a stenography company and stayed through its full pivot to AI speech recognition. Every time the product changed, I rebuilt the marketing from scratch — not just campaigns, but websites, attribution systems, and automation workflows, written in code.
 
-> **14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **₩7.2B** revenue · **250+** enterprise clients · **8** websites in production
+I design the full chain: media → landing → conversion. I built mobile-first landing pages for a 98% mobile audience, anchor pages that cut a 91% bounce rate, and custom UTM tracking with Wix Velo. Result: 10x conversion growth on 2x traffic.
 
----
-
-## Key Results
-
-* Ran **₩800M–1.5B annual ad budgets** (~$600K–$1.1M) across Meta, Google, and Naver for 10+ years
-* Revenue **₩5.2B → ₩7.2B**, **650% ROAS**
-* Conversion up **1,078%** (17,063 form submissions) while traffic only doubled
-* Designed custom attribution tracking (UTM + hidden fields + Wix Velo) → analyzed lead quality by creative and interest → improved funnel through continuous A/B testing
-* Co-launched AI SaaS with SK hynix & SK Telecom — **₩1.1B** in service revenue
-* Owned marketing across 5+ product lines (STT, media captioning, video editing, translation)
-* Grew marketing from a small unit into a standalone department of 10+
-
-> [Performance Report (2025)](reports/2025-website-performance-en.md) — Channel breakdown, conversion funnel, key insights
->
-> [CRO Strategy (2025)](reports/2025-cro-strategy-en.md) — Data-driven UX and conversion optimization
+When I see a bottleneck on the team, I build a tool for it. Every tool I've made is deployed and actively used.
 
 ---
 
-## Things I Built
+## What I Do
 
-Every tool here was born from a real bottleneck I found on the team. I built each one, deployed it to teammates, and it actually cut our research and production time significantly.
+- **Growth Marketing** — ₩800M–1.5B annual ad budget across Meta, Google, Naver. Funnel design, A/B testing.
+- **AI Automation** — GPT, Make.com, Notion API-based workflow design and operations.
+- **Web & Tool Building** — Internal tools and sites built with Next.js and Wix Velo.
+- **Data-driven CRO** — Custom UTM tracking, conversion optimization, creative-level lead quality analysis.
+- **Campaign Execution** — Marketing lead across 5+ product lines, multi-channel campaigns.
+- **GTM & Product Marketing** — B2B SaaS launches, positioning, segment-level messaging.
+
+---
+
+## Selected Work
 
 ### MefiMake — Meta Ad Creative Generator
 
-Built for content marketers and designers who live in Figma. Marketers who aren't designers can use locked-down templates to produce ad creatives fast. Includes Safe Zone guides, Meta Library integration, and a canvas-based editor.
+Canvas-based ad creative generator for content marketers and designers.
+
+**Problem** — Marketers without design skills spent too much time producing ad creatives.
+
+**Solution** — Built a canvas editor with locked templates, Safe Zone guides, and Meta Library integration. Marketers can produce creatives without touching Figma.
 
 [Live](https://mefimake.vercel.app) · Next.js, Vercel
 
 ### WebScout — Competitive Site Analysis
 
-Analyzing competitor sites was eating up too much time, so I built a tool for it. Enter a URL, it crawls the structure, and GPT-4o generates a diagnostic report.
+Enter a URL, get a full site structure crawl and a GPT-4o diagnostic report.
+
+**Problem** — Manually analyzing competitor sites took too much time.
+
+**Solution** — Built an automated crawler that maps site structure and generates AI-powered diagnostic reports. Team members just paste a URL.
 
 [Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next) · Next.js, TypeScript, Vercel
 
 ### Ad Creative Tool — Ad Production Automation `In Progress`
 
-Got tired of making the same ad in five different sizes for every platform. This tool generates AI copy, renders it on templates, and exports all sizes at once.
+AI copy generation → template rendering → multi-size export in one pipeline.
+
+**Problem** — Producing the same creative in multiple sizes for every platform.
+
+**Solution** — Built a pipeline that generates AI copy, renders it on templates, and exports all sizes at once.
 
 [Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
 
-
 ### Lead Automation System
 
-Leads come in through Wix CMS, get piped into Notion, and AI agents handle the repetitive stuff — enrichment, tagging, follow-up. The team focuses on analysis and closing.
+Wix CMS → Notion → AI agents for end-to-end lead processing.
 
-Make.com, Notion API, GitHub Actions
+**Problem** — Lead enrichment, tagging, and follow-up were all manual.
+
+**Solution** — Leads flow from Wix into Notion automatically. AI agents handle enrichment, tagging, and follow-up. The team focuses on analysis and closing. Connected a Notion→GitHub pipeline for CRM automation.
+
+[GitHub](https://github.com/dalgoms/ai_process) · Make.com, Notion API, GitHub Actions
 
 ---
 
-## Service Marketing
+## Growth & Performance
 
-### SORIZAVA
+- **₩800M–1.5B** annual ad budget across Meta, Google, Naver — 10+ consecutive years
+- Co-launched AI SaaS with SK hynix & SK Telecom — **₩1.1B** revenue
+- Marketing lead across 5+ business units (STT, media captioning, video editing, translation)
+- Grew marketing from a small unit into a standalone department of 10+
 
-> Core revenue service · AI stenographer awareness · Full-funnel marketing
+![4-Step Marketing Strategy](assets/how-i-work.png)
 
-| Problem | Solution |
-|---|---|
-| Leads and conversion stalling due to legacy service structure | Built UTM-based A/B testing, redesigned the conversion flow |
+### SORIZAVA — AI Stenography Service
 
-I set up UTM tracking from scratch — designed the codes so every form submission automatically records which channel, creative, and keyword drove it. Combined Wix forms, hidden fields, and Velo code into an end-to-end system that gives the sales team full context on each lead before the first call.
+> Core revenue service · Full-funnel marketing · Custom attribution tracking
+
+**Problem** — Leads and conversions stalling due to legacy service structure.
+
+**Solution** — Designed UTM tracking from scratch so every form submission records the source channel, creative, and keyword. Built a system combining Wix forms, hidden fields, and Velo code — giving the sales team full context on each lead before the first call.
+
+**Results**
+
+- Revenue **₩5.2B → ₩7.2B**, **650% ROAS**
+- **1,078%** conversion increase on 2x traffic (17,063 form submissions)
+- Creative-level lead quality analysis → continuous funnel optimization through A/B testing
 
 <details>
 <summary>UTM Tracking Details</summary>
 <br>
 
-<img src="assets/utm-tracking-form.png" alt="UTM tracking form with Velo code" width="600">
+<img src="assets/utm-tracking-form.png" alt="UTM tracking forms and Velo code" width="600">
 
 <img src="assets/utm-tracking-db.png" alt="UTM campaign group lead data" width="600">
 
@@ -82,100 +114,69 @@ I set up UTM tracking from scratch — designed the codes so every form submissi
 
 [sorizava.com](https://www.sorizava.com/) · [Performance Report](reports/2025-website-performance-en.md) · [CRO Strategy](reports/2025-cro-strategy-en.md)
 
----
-
 ### Timblo — AI Meeting Notes SaaS
 
 > B2B SaaS · 250+ enterprise clients · Joint launch with SK hynix & SK Telecom
 
-| Problem | Solution |
-|---|---|
-| Scattered B2B/B2C channels, inconsistent messaging across app/web/store | Built a unified communication structure with channel-specific conversion flows |
+**Problem** — Scattered B2B/B2C channels with inconsistent messaging across app, web, and app stores.
 
-Handled the full GTM: product positioning, segment-level messaging (SMB / mid-market / enterprise), B2B onboarding, and sales materials.
+**Solution** — Designed and executed the full GTM: product positioning, segment-level messaging, B2B onboarding flows, and sales collateral.
+
+**Results**
+
+- Joint launch with SK hynix & SK Telecom — **₩1.1B** revenue
+- **250+** enterprise clients
 
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
 
----
+### Websites
 
-## How I Work
+I plan and operate 8 sites simultaneously, each with automated lead pipelines. When someone inquires, they get a segment-matched brochure automatically, and the lead routes to the right team.
 
-For ad spend to turn into real leads, the whole chain — media, landing, conversion — has to line up. I built mobile-first landing pages for a 98% mobile audience and designed anchor pages that cut a 91% bounce rate. Result: 10x conversion growth on only 2x traffic.
+<details>
+<summary>Sites I Operate</summary>
+<br>
 
-![4-Step Marketing Strategy](assets/how-i-work.png)
+| Type | Site | Description |
+|---|---|---|
+| Corporate | [timbel.net](https://www.timbel.net/) | AI voice platform · B2B hub |
+| Service | [sorizava.com](https://www.sorizava.com/) | Stenography · AI stenographer |
+| Service | [clipdesk.net](https://www.clipdesk.net/) | Video editing service |
+| Content | [textarbiz.com](https://www.textarbiz.com/) | Subtitle/translation |
+| Global | [textarglobal.com](https://www.textarglobal.com/) | Global subtitle service |
+| Platform | [worksfy.net](https://www.worksfy.net/) | Stenographer matching |
+| SaaS | [timblo.io](https://timblo.io/ko) | AI meeting notes · 250+ clients |
+| App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI meeting recording app |
 
----
-
-## Growth Marketing OS
-
-Every tool was built to solve a real bottleneck on the team. They connect into one system: analyze → create → automate → measure → insight.
-
-```mermaid
-flowchart LR
-  A["Analyze\nWebScout"] --> B["Create\nMefiMake · Ad Creative"]
-  B --> C["Automate\nai_process"]
-  C --> D["Measure\nUTM + GA"]
-  D -->|"Feedback"| A
-  D --> E["Insight\nAI Agent Forum"]
-  E -->|"Multi-Agent Insights"| A
-```
-
-| Phase | Tool | What it does | Status |
-|---|---|---|---|
-| **Analyze** | [WebScout](https://webscout-next.vercel.app/) | Site crawling · AI diagnostic reports | LIVE |
-| **Create** | [MefiMake](https://mefimake.vercel.app) | Meta ad creative generator · canvas-based template editor | LIVE |
-| **Create** | [Ad Creative Tool](https://ad-creative-tool.vercel.app) | AI copy · multi-size export | In Progress |
-| **Automate** | [ai_process](https://github.com/dalgoms/ai_process) | Notion→GitHub pipeline · CRM automation | LIVE |
-| **Measure** | UTM + GA + Wix | Channel tracking · funnel analysis | LIVE |
-| **Insight** | AI Agent Forum | Multi-agent debate for market, competitive & sales insights | LIVE |
-
-> Built all six myself. They're all in active use.
-
----
-
-## Websites
-
-I plan and run 8 sites at the same time, each with its own automated lead pipeline. When someone inquires, they get a segment-matched brochure automatically, and the lead routes to the right team.
+</details>
 
 <details>
 <summary>Lead Automation Details</summary>
 <br>
 
-<img src="assets/lead-automation.png" alt="Lead automation setup" width="600">
+<img src="assets/lead-automation.png" alt="Lead automation workflow" width="600">
 
 </details>
 
-```mermaid
-flowchart LR
-  A["Domain · Planning"] --> B["CMS · DB"]
-  B --> C["Lead Flow · SEO"]
-  C --> D["Launch · Ops"]
-  D --> E["Automation · Lead Routing"]
-```
+---
 
-| Type | Site | Description | My role |
-|---|---|---|---|
-| Corporate | [timbel.net](https://www.timbel.net/) | AI voice platform · B2B hub | Web planning · lead structure · CMS |
-| Service | [sorizava.com](https://www.sorizava.com/) | Stenography · AI stenographer | SEO · conversion · optimization |
-| Service | [clipdesk.net](https://www.clipdesk.net/) | Video editing service | Launch · service planning |
-| Content | [textarbiz.com](https://www.textarbiz.com/) | Subtitle/translation service | Communication · structure |
-| Global | [textarglobal.com](https://www.textarglobal.com/) | Global subtitle service | Global communication |
-| Platform | [worksfy.net](https://www.worksfy.net/) | Stenographer matching | Ops structure |
-| SaaS | [timblo.io](https://timblo.io/ko) | AI meeting notes · 250+ clients | Product comms · B2B design |
-| App | [Timblo App](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos) | AI meeting recording app | App communication |
+## Reports
+
+| Document | Description |
+|---|---|
+| [Performance Report (2025)](reports/2025-website-performance-en.md) | Channel breakdown, conversion funnel, key insights |
+| [CRO Strategy (2025)](reports/2025-cro-strategy-en.md) | Data-driven UX and conversion optimization |
 
 ---
 
-## Tech & Tools
+## Tech Stack
 
-| Category | Stack | What I use it for |
-|---|---|---|
-| Website Ops | Wix · SEO · GA4 | Domain · CMS · DB · forms · lead flow |
-| AI / Automation | GPT · Claude · Cursor · Make.com · Notion API | Copy · workflows · lead automation |
-| Dev | Next.js · TypeScript · Node.js · Vercel | AI tools · analytics systems |
-| Design | Figma · PS · AI · Premiere | Mockups · creative production |
-| Analysis | UTM · A/B Testing · Funnel Analysis | Measurement · conversion optimization |
-| Messaging | Telegram Bot · Slack · Gmail · KakaoTalk | Alerts · follow-up |
+- **Website Ops** — Wix · SEO · GA4
+- **AI / Automation** — GPT · Claude · Cursor · Make.com · Notion API
+- **Dev** — Next.js · TypeScript · Node.js · Vercel
+- **Design** — Figma · Photoshop · Illustrator · Premiere
+- **Analysis** — UTM · A/B Testing · Funnel Analysis
+- **Messaging** — Telegram Bot · Slack · Gmail · KakaoTalk
 
 ---
 
