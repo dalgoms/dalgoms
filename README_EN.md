@@ -2,9 +2,9 @@
 
 **Growth Marketer · AI Automation · Builder**
 
-I build and operate growth systems — tracking, automation, tools, and campaigns.
+I build growth infrastructure with code and scale it with data.
 
-**14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **₩7.2B** revenue · **250+** enterprise clients
+**14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **250+** enterprise clients
 
 [한국어](README.md) | **English**
 
@@ -16,7 +16,7 @@ I build and operate growth systems — tracking, automation, tools, and campaign
 
 **timbel** · Head of Marketing & PR · 10+ years
 
-I joined timbel when it was a stenography company and stayed through its full pivot to AI speech recognition. Every time the product changed, I rebuilt the marketing from scratch — not just campaigns, but websites, attribution systems, and automation workflows, written in code.
+I joined timbel when it was a stenography company and stayed through its full pivot to AI speech recognition. Every product pivot, I redesigned the GTM strategy and rebuilt the marketing infrastructure — not just campaigns, but websites, attribution systems, and automation workflows, written in code.
 
 I design the full chain: media → landing → conversion. I built mobile-first landing pages for a 98% mobile audience, anchor pages that cut a 91% bounce rate, and custom UTM tracking with Wix Velo. Result: 10x conversion growth on 2x traffic.
 
@@ -26,7 +26,7 @@ When I see a bottleneck on the team, I build a tool for it. Every tool I've made
 
 ## What I Do
 
-- **Growth Marketing** — ₩800M–1.5B annual ad budget across Meta, Google, Naver. Funnel design, A/B testing.
+- **Growth Marketing** — $1M+ annual ad budget across Meta, Google, Naver. Funnel design, A/B testing.
 - **AI Automation** — GPT, Make.com, Notion API-based workflow design and operations.
 - **Web & Tool Building** — Internal tools and sites built with Next.js and Wix Velo.
 - **Data-driven CRO** — Custom UTM tracking, conversion optimization, creative-level lead quality analysis.
@@ -81,8 +81,8 @@ Wix CMS → Notion → AI agents for end-to-end lead processing.
 
 ## Growth & Performance
 
-- **₩800M–1.5B** annual ad budget across Meta, Google, Naver — 10+ consecutive years
-- Co-launched AI SaaS with SK hynix & SK Telecom — **₩1.1B** revenue
+- **$1M+** annual ad budget across Meta, Google, Naver — 10+ consecutive years
+- Co-launched AI SaaS with SK hynix & SK Telecom — exceeded first-year revenue target
 - Marketing lead across 5+ business units (STT, media captioning, video editing, translation)
 - Grew marketing from a small unit into a standalone department of 10+
 
@@ -98,8 +98,8 @@ Wix CMS → Notion → AI agents for end-to-end lead processing.
 
 **Results**
 
-- Revenue **₩5.2B → ₩7.2B**, **650% ROAS**
-- **1,078%** conversion increase on 2x traffic (17,063 form submissions)
+- Revenue **YoY 38% growth**, **650% ROAS**
+- **1,078%** conversion increase on 2x traffic
 - Creative-level lead quality analysis → continuous funnel optimization through A/B testing
 
 <details>
@@ -124,7 +124,7 @@ Wix CMS → Notion → AI agents for end-to-end lead processing.
 
 **Results**
 
-- Joint launch with SK hynix & SK Telecom — **₩1.1B** revenue
+- Joint launch with SK hynix & SK Telecom — exceeded first-year revenue target
 - **250+** enterprise clients
 
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)

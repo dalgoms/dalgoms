@@ -2,9 +2,9 @@
 
 **Growth Marketer · AI Automation · Builder**
 
-마케팅 시스템과 AI 자동화를 직접 설계하고 운영합니다.
+마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
 
-**14x** 리드 성장 · **650%** ROAS · **1,078%** 전환 증가 · **₩72억** 매출 · **250+** 기업 고객
+**14x** 리드 성장 · **650%** ROAS · **1,078%** 전환 증가 · **250+** 기업 고객
 
 **한국어** | [English](#english) | [Full English →](README_EN.md)
 
@@ -16,7 +16,7 @@
 
 **팀벨(timbel)** 홍보마케팅 팀장 · 10년+
 
-속기 전문 기업이 AI 음성인식 기업으로 전환되는 10년간, 제품이 바뀔 때마다 마케팅을 처음부터 다시 만들었습니다. 광고 집행뿐 아니라 웹사이트, 데이터 추적 시스템, 자동화 워크플로우까지 직접 코드로 구현합니다.
+속기 전문 기업이 AI 음성인식 기업으로 전환되는 10년간, 제품 피벗마다 GTM 전략을 재설계하고 마케팅 인프라를 재구축했습니다. 광고 집행뿐 아니라 웹사이트, 데이터 추적 시스템, 자동화 워크플로우까지 코드로 구현합니다.
 
 매체 → 랜딩 → 전환까지 전 과정을 직접 설계합니다. 98% 모바일 환경에 맞춘 전용 랜딩페이지를 만들고, 91% 반송률을 잡는 앵커 페이지를 설계했습니다. UTM + Wix Velo 기반 어트리뷰션 추적을 직접 구축해서 트래픽 2배 대비 전환 10배를 만들었습니다.
 
@@ -26,7 +26,7 @@
 
 ## What I Do
 
-- **Growth Marketing** — 연 8~15억 광고 운영 (Meta · Google · Naver), 퍼널 설계, A/B 테스트
+- **Growth Marketing** — 연간 10억+ 규모 광고 운영 (Meta · Google · Naver), 퍼널 설계, A/B 테스트
 - **AI Automation** — GPT · Make.com · Notion API 기반 워크플로우 구축
 - **Web & Tool Building** — Next.js · Wix Velo로 내부 도구와 사이트 직접 개발
 - **Data-driven CRO** — UTM 추적 시스템 설계, 전환 구조 최적화, 소재별 리드 품질 분석
@@ -101,8 +101,8 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ## Growth & Performance
 
-- 연 **8~15억** 광고 예산 운영 (Meta · Google · Naver), 10년 연속
-- SK hynix · SK Telecom 공동 AI SaaS 런칭, 매출 **11억**
+- 연간 **10억+** 규모 광고 예산 운영 (Meta · Google · Naver), 10년 연속
+- SK hynix · SK Telecom 공동 AI SaaS 런칭, 첫해 매출 목표 초과 달성
 - 5개 이상 사업부(STT, 미디어자막, 영상편집, 번역) 마케팅 총괄
 - 10명+ 다직군 팀을 소규모 유닛에서 독립 부서로 성장
 
@@ -118,8 +118,8 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 **결과**
 
-- 매출 **52억 → 72억**, **ROAS 650%**
-- 트래픽 2배 증가 대비 전환 **1,078% 증가** (양식 제출 17,063건)
+- 매출 **YoY 38% 성장**, **ROAS 650%**
+- 트래픽 2배 증가 대비 전환 **1,078% 증가**
 - 소재별 리드 품질 분석 → A/B 테스트로 퍼널 지속 개선
 
 <details>
@@ -144,7 +144,7 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 **결과**
 
-- SK hynix · SK Telecom 공동 런칭, 매출 **11억**
+- SK hynix · SK Telecom 공동 런칭, 첫해 매출 목표 초과 달성
 - **250+** 기업 고객 확보
 
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
@@ -220,10 +220,9 @@ I don't just run ads. I build the infrastructure around them — custom attribut
 
 **Impact**
 
-- **14x** lead growth · **650%** ROAS · **1,078%** conversion increase
-- **₩7.2B** revenue · **250+** enterprise clients
-- **₩800M–1.5B** annual ad budget across Meta, Google, Naver
-- Co-launched AI SaaS with SK hynix & SK Telecom — **₩1.1B** revenue
+- **14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **250+** enterprise clients
+- **10+ years** managing **$1M+** annual ad budget across Meta, Google, Naver
+- Co-launched AI SaaS with SK hynix & SK Telecom — exceeded first-year revenue target
 
 **Things I Built**
 
