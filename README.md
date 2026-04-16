@@ -5,9 +5,9 @@
 마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
 
 ![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=for-the-badge)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-00C853?style=for-the-badge)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-2979FF?style=for-the-badge)
-![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-7C4DFF?style=for-the-badge)
+![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=for-the-badge)
+![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=for-the-badge)
+![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-FF6B35?style=for-the-badge)
 
 **한국어** | [English](#english) | [Full English →](README_EN.md)
 
@@ -28,13 +28,6 @@
 ---
 
 ## What I Do
-
-![Growth Marketing](https://img.shields.io/badge/Growth_Marketing-FF6B35?style=flat-square&logo=googleanalytics&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_Automation-7C4DFF?style=flat-square&logo=openai&logoColor=white)
-![Web Building](https://img.shields.io/badge/Web_&_Tool_Building-2979FF?style=flat-square&logo=nextdotjs&logoColor=white)
-![Data CRO](https://img.shields.io/badge/Data--driven_CRO-00C853?style=flat-square&logo=databricks&logoColor=white)
-![Campaign](https://img.shields.io/badge/Campaign_Execution-FF5252?style=flat-square&logo=meta&logoColor=white)
-![GTM](https://img.shields.io/badge/GTM_&_Product_Marketing-FFB300?style=flat-square&logo=rocket&logoColor=white)
 
 - **Growth Marketing** — 연간 10억+ 규모 광고 운영 (Meta · Google · Naver), 퍼널 설계, A/B 테스트
 - **AI Automation** — GPT · Make.com · Notion API 기반 워크플로우 구축
@@ -160,9 +153,9 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 **결과**
 
-![YoY](https://img.shields.io/badge/Revenue-YoY_38%25_%E2%86%91-00C853?style=flat-square)
+![YoY](https://img.shields.io/badge/Revenue-YoY_38%25_%E2%86%91-FF6B35?style=flat-square)
 ![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-2979FF?style=flat-square)
+![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=flat-square)
 
 - 매출 **YoY 38% 성장**, **ROAS 650%**
 - 트래픽 2배 증가 대비 전환 **1,078% 증가**
@@ -182,8 +175,8 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ### Timblo — AI 회의록 SaaS
 
-![AGENT MATRIX](https://img.shields.io/badge/AGENT_MATRIX-GTM_Launch-7C4DFF?style=for-the-badge)
-![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-250%2B_Clients-00C853?style=for-the-badge)
+![AGENT MATRIX](https://img.shields.io/badge/AGENT_MATRIX-GTM_Launch-FF6B35?style=for-the-badge)
+![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-250%2B_Clients-2979FF?style=for-the-badge)
 
 > B2B SaaS · 250+ 기업 고객 · SK hynix & SK Telecom 공동 런칭
 
@@ -201,7 +194,7 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 ### 웹사이트 운영
 
 ![Sites](https://img.shields.io/badge/Sites-8_Managed-2979FF?style=flat-square)
-![Automation](https://img.shields.io/badge/Lead_Pipeline-Automated-00C853?style=flat-square)
+![Automation](https://img.shields.io/badge/Lead_Pipeline-Automated-2979FF?style=flat-square)
 
 8개 사이트를 동시에 기획·운영하면서, 서비스별 리드 파이프라인을 자동화했습니다. 고객이 문의하면 세그먼트별 소개서가 자동 발송되고, 각 부서로 리드가 분배됩니다.
 
@@ -298,9 +291,9 @@ I don't just run ads. I build the infrastructure around them — custom attribut
 **Impact**
 
 ![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=flat-square)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-00C853?style=flat-square)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-2979FF?style=flat-square)
-![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-7C4DFF?style=flat-square)
+![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square)
+![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=flat-square)
+![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-FF6B35?style=flat-square)
 
 - **14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **250+** enterprise clients
 - **10+ years** managing **$1M+** annual ad budget across Meta, Google, Naver
