@@ -3,15 +3,9 @@
 **Growth Marketer · AI Automation · Builder**
 
 마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
-
-![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=for-the-badge)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=for-the-badge)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=for-the-badge)
-![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-FF6B35?style=for-the-badge)
+광고를 집행하는 게 아니라, 광고가 작동하는 구조를 만듭니다.
 
 **한국어** | [English](#english) | [Full English →](README_EN.md)
-
-[About](#about) · [What I Do](#what-i-do) · [Selected Work](#selected-work) · [Growth & Performance](#growth--performance) · [Reports](#reports) · [Contact](#contact)
 
 ---
 
@@ -42,10 +36,6 @@
 
 ### MefiMake — Meta 광고 소재 생성기
 
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
 콘텐츠 마케터·디자이너를 위한 캔버스 기반 광고 소재 생성기.
 
 **문제** — 디자인 경험 없는 마케터가 광고 소재 제작에 시간을 많이 씀.
@@ -56,11 +46,6 @@
 
 ### WebScout — 경쟁사 사이트 분석 자동화
 
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-
 URL 하나로 경쟁사 사이트를 자동 진단하는 분석 도구.
 
 **문제** — 경쟁사 사이트를 하나하나 수동으로 분석하는 데 시간이 과도하게 소요됨.
@@ -69,12 +54,7 @@ URL 하나로 경쟁사 사이트를 자동 진단하는 분석 도구.
 
 [Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next) · Next.js, TypeScript, Vercel
 
-### Ad Creative Tool — 광고 소재 자동화
-
-![Status](https://img.shields.io/badge/Status-In_Progress-FFB300?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+### Ad Creative Tool — 광고 소재 자동화 `진행중`
 
 카피 작성부터 멀티사이즈 내보내기까지 한번에 처리하는 광고 소재 파이프라인.
 
@@ -86,11 +66,6 @@ URL 하나로 경쟁사 사이트를 자동 진단하는 분석 도구.
 
 ### 리드 자동화 시스템
 
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
 Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 자동화.
 
 **문제** — 리드 데이터 정리, 태깅, 팔로업이 전부 수작업.
@@ -101,11 +76,6 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ### Telegram Todolist Bot — 텔레그램 → 노션 할일 자동화
 
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
 텔레그램 메시지로 할일을 남기면 노션 DB에 자동 생성되는 업무 자동화 봇.
 
 **문제** — 회의 중 빠르게 기록한 할일이 정리되지 않고 흩어짐.
@@ -115,11 +85,6 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 [GitHub](https://github.com/dalgoms/telegram_todolist_bot) · Python, Telegram Bot API, Notion API, OpenAI
 
 ### Telegram File Organizer — AI 파일 자동 정리 봇
-
-![Status](https://img.shields.io/badge/Status-Live-00C853?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 
 텔레그램에서 폴더 경로를 보내면 AI가 분석하여 자동으로 정리해주는 봇.
 
@@ -142,24 +107,13 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ### SORIZAVA — AI 속기 서비스
 
-![AGENT MATRIX](https://img.shields.io/badge/AGENT_MATRIX-Full_Funnel-FF6B35?style=for-the-badge)
-![Attribution](https://img.shields.io/badge/Attribution-Custom_Built-2979FF?style=for-the-badge)
-
 > 핵심 매출 서비스 · 풀퍼널 마케팅 · 자체 어트리뷰션 추적
 
 **문제** — 10년 이상 운영된 속기 서비스라 유입 경로 추적이 없었고, 어떤 채널에서 온 리드가 전환되는지 알 수 없는 구조였습니다.
 
 **해결** — UTM 코드를 직접 설계해서, 채널·소재·키워드별 유입을 양식에 자동 기록하는 추적 시스템을 구축했습니다. Wix 폼 + 숨김 필드 + Velo 코드를 조합해서 상담 부서가 고객의 유입 맥락을 사전에 파악할 수 있게 만들었습니다.
 
-**결과**
-
-![YoY](https://img.shields.io/badge/Revenue-YoY_38%25_%E2%86%91-FF6B35?style=flat-square)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=flat-square)
-
-- 매출 **YoY 38% 성장**, **ROAS 650%**
-- 트래픽 2배 증가 대비 전환 **1,078% 증가**
-- 소재별 리드 품질 분석 → A/B 테스트로 퍼널 지속 개선
+**결과** — 매출 YoY **38%** 성장, ROAS **650%**, 트래픽 2배 증가 대비 전환 **1,078%** 증가. 소재별 리드 품질 분석과 A/B 테스트로 퍼널을 지속 개선하고 있습니다.
 
 <details>
 <summary>UTM 추적 시스템 상세</summary>
@@ -175,26 +129,17 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ### Timblo — AI 회의록 SaaS
 
-![AGENT MATRIX](https://img.shields.io/badge/AGENT_MATRIX-GTM_Launch-FF6B35?style=for-the-badge)
-![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-250%2B_Clients-2979FF?style=for-the-badge)
-
 > B2B SaaS · 250+ 기업 고객 · SK hynix & SK Telecom 공동 런칭
 
 **문제** — B2B/B2C 채널 분산, 앱·웹·스토어 간 메시지 불일치.
 
 **해결** — 제품 포지셔닝부터 세그먼트별 메시지 분리, B2B 온보딩, 영업 자료까지 GTM 전반을 직접 설계하고 실행했습니다.
 
-**결과**
-
-- SK hynix · SK Telecom 공동 런칭, 첫해 매출 목표 초과 달성
-- **250+** 기업 고객 확보
+**결과** — SK hynix · SK Telecom 공동 런칭 첫해 매출 목표 초과 달성, **250+** 기업 고객 확보.
 
 [timblo.io](https://timblo.io/ko) · [Google Play](https://play.google.com/store/apps/details?id=net.timblo.mobile.aos)
 
 ### 웹사이트 운영
-
-![Sites](https://img.shields.io/badge/Sites-8_Managed-2979FF?style=flat-square)
-![Automation](https://img.shields.io/badge/Lead_Pipeline-Automated-2979FF?style=flat-square)
 
 8개 사이트를 동시에 기획·운영하면서, 서비스별 리드 파이프라인을 자동화했습니다. 고객이 문의하면 세그먼트별 소개서가 자동 발송되고, 각 부서로 리드가 분배됩니다.
 
@@ -236,45 +181,18 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ## Tech Stack
 
-**Dev**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**AI · Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-**Ads · Analytics**
-
-![Meta](https://img.shields.io/badge/Meta_Ads-0081FB?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix_Velo-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
-
-**Design · Messaging**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+**Dev** · Next.js · TypeScript · Python · Node.js · Vercel
+**AI · Automation** · GPT · Claude · Make.com · Notion API
+**Ads · Analytics** · Meta Ads · Google Ads · GA4 · Wix Velo
+**Design** · Figma · Photoshop · Illustrator · Premiere
 
 ---
 
 ## Contact
 
-![Open to Work](https://img.shields.io/badge/Open_to-AI_SaaS_%C2%B7_Growth_%C2%B7_B2B-FF6B35?style=for-the-badge)
-
 **AI SaaS · Growth Marketing · B2B · 마케팅 자동화** 관련 기회에 열려 있습니다.
 
-[![Email](https://img.shields.io/badge/Email-seyoung8967%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seyoung8967@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seyounglees-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyounglees/)
+seyoung8967@gmail.com · [LinkedIn](https://www.linkedin.com/in/seyounglees/)
 
 ---
 
@@ -288,16 +206,7 @@ Growth marketer who builds. 10+ years leading marketing at timbel, through the c
 
 I don't just run ads. I build the infrastructure around them — custom attribution tracking, AI-powered lead workflows, and internal tools my team uses daily.
 
-**Impact**
-
-![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=flat-square)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25_%E2%86%91-FF6B35?style=flat-square)
-![Enterprise](https://img.shields.io/badge/Enterprise-250%2B_Clients-FF6B35?style=flat-square)
-
-- **14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **250+** enterprise clients
-- **10+ years** managing **$1M+** annual ad budget across Meta, Google, Naver
-- Co-launched AI SaaS with SK hynix & SK Telecom — exceeded first-year revenue target
+**Impact** — **14x** lead growth · **650%** ROAS · **1,078%** conversion increase · **250+** enterprise clients. 10+ years managing $1M+ annual ad budget across Meta, Google, Naver. Co-launched AI SaaS with SK hynix & SK Telecom — exceeded first-year revenue target.
 
 **Things I Built**
 
@@ -308,18 +217,6 @@ I don't just run ads. I build the infrastructure around them — custom attribut
 - [**Telegram Todolist Bot**](https://github.com/dalgoms/telegram_todolist_bot) — Telegram → Notion task automation with AI decomposition & workflow templates
 - [**Telegram File Organizer**](https://github.com/dalgoms/telegram-file-organizer) — AI-powered file organization with duplicate detection, version chain analysis & multi-device support
 
-**Stack**
+**Stack** · Next.js · TypeScript · GPT · Make.com · Notion API · Wix Velo · Vercel · GA4
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white)
-![Wix Velo](https://img.shields.io/badge/Wix_Velo-0C6EFC?style=flat-square&logo=wix&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-
-**Contact**
-
-[![Email](https://img.shields.io/badge/Email-seyoung8967%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seyoung8967@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seyounglees-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyounglees/)
+seyoung8967@gmail.com · [LinkedIn](https://www.linkedin.com/in/seyounglees/)
