@@ -1,4 +1,4 @@
-# 이세영
+# 이세영 SEYOUNG LEE
 
 **Growth Marketer · AI Automation · Builder**
 
