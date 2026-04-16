@@ -5,6 +5,8 @@
 마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
 광고를 집행하는 게 아니라, 광고가 작동하는 구조를 만듭니다.
 
+![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=flat-square) ![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square) ![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=flat-square) ![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=flat-square)
+
 **한국어** | [English](#english) | [Full English →](README_EN.md)
 
 ---
