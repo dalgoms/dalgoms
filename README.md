@@ -11,8 +11,6 @@ Growth Marketing · AI Automation · Web Builder
 ![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=for-the-badge)
 ![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=for-the-badge)
 
-[Projects](#featured-projects) • [Impact](#impact) • [How I Work](#how-i-work) • [Tech Stack](#tech-stack) • [Contact](#contact)
-
 </div>
 
 ---
