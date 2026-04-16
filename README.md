@@ -74,6 +74,16 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 **해결** — Wix에서 들어온 리드를 Notion으로 자동 전송하고, AI 에이전트가 데이터 보강·태깅·팔로업을 처리합니다. Notion→GitHub 파이프라인으로 CRM 자동화까지 연결했습니다.
 
+```mermaid
+flowchart LR
+    A[Wix 폼] -->|Webhook| B[Make.com]
+    B --> C[Notion DB]
+    C --> D[AI Agent]
+    D -->|보강 · 태깅| C
+    D --> E[자동 팔로업]
+    C -->|Actions| F[CRM]
+```
+
 [GitHub](https://github.com/dalgoms/ai_process) · Make.com, Notion API, GitHub Actions
 
 ### Telegram Todolist Bot — 텔레그램 → 노션 할일 자동화
@@ -114,6 +124,20 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 **문제** — 10년 이상 운영된 속기 서비스라 유입 경로 추적이 없었고, 어떤 채널에서 온 리드가 전환되는지 알 수 없는 구조였습니다.
 
 **해결** — UTM 코드를 직접 설계해서, 채널·소재·키워드별 유입을 양식에 자동 기록하는 추적 시스템을 구축했습니다. Wix 폼 + 숨김 필드 + Velo 코드를 조합해서 상담 부서가 고객의 유입 맥락을 사전에 파악할 수 있게 만들었습니다.
+
+```mermaid
+flowchart LR
+    subgraph Ads
+        A[Meta]
+        B[Google]
+        C[Naver]
+    end
+    Ads -->|UTM 링크| D[랜딩페이지]
+    D -->|Velo 코드| E[폼 + 숨김 필드]
+    E --> F[상담 부서]
+    E --> G[리드 품질 분석]
+    G -->|A/B 최적화| Ads
+```
 
 **결과** — 매출 YoY **38%** 성장, ROAS **650%**, 트래픽 2배 증가 대비 전환 **1,078%** 증가. 소재별 리드 품질 분석과 A/B 테스트로 퍼널을 지속 개선하고 있습니다.
 
