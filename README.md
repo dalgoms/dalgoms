@@ -181,10 +181,30 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 ## Tech Stack
 
-**Dev** · Next.js · TypeScript · Python · Node.js · Vercel
-**AI · Automation** · GPT · Claude · Make.com · Notion API
-**Ads · Analytics** · Meta Ads · Google Ads · GA4 · Wix Velo
-**Design** · Figma · Photoshop · Illustrator · Premiere
+**Dev**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI · Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+**Ads · Analytics**
+![Meta](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix_Velo-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+
+**Design · Messaging**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
@@ -192,7 +212,7 @@ Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 �
 
 **AI SaaS · Growth Marketing · B2B · 마케팅 자동화** 관련 기회에 열려 있습니다.
 
-seyoung8967@gmail.com · [LinkedIn](https://www.linkedin.com/in/seyounglees/)
+[![Email](https://img.shields.io/badge/seyoung8967%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seyoung8967@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyounglees/)
 
 ---
 
@@ -217,6 +237,14 @@ I don't just run ads. I build the infrastructure around them — custom attribut
 - [**Telegram Todolist Bot**](https://github.com/dalgoms/telegram_todolist_bot) — Telegram → Notion task automation with AI decomposition & workflow templates
 - [**Telegram File Organizer**](https://github.com/dalgoms/telegram-file-organizer) — AI-powered file organization with duplicate detection, version chain analysis & multi-device support
 
-**Stack** · Next.js · TypeScript · GPT · Make.com · Notion API · Wix Velo · Vercel · GA4
+**Stack**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white)
+![Wix Velo](https://img.shields.io/badge/Wix_Velo-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-seyoung8967@gmail.com · [LinkedIn](https://www.linkedin.com/in/seyounglees/)
+[![Email](https://img.shields.io/badge/seyoung8967%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seyoung8967@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyounglees/)
