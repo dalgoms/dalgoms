@@ -1,25 +1,36 @@
-# 이세영
+<div align="center">
 
-**Growth Marketer · AI Automation · Builder**
+# 이세영 · Seyoung Lee
 
-마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
-광고를 집행하는 게 아니라, 광고가 작동하는 구조를 만듭니다.
+### I build growth systems, not just campaigns.
 
-![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=flat-square) ![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square) ![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=flat-square) ![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=flat-square)
+Growth Marketing · AI Automation · Web Builder
 
-**한국어** | [English](#english) | [Full English →](README_EN.md)
+![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=for-the-badge)
+![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=for-the-badge)
+![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=for-the-badge)
+![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=for-the-badge)
+
+[Projects](#featured-projects) • [Impact](#impact) • [How I Work](#how-i-work) • [Tech Stack](#tech-stack) • [Contact](#contact)
+
+</div>
 
 ---
 
-## About
+## About Me
 
-**팀벨(timbel)** 홍보마케팅 팀장 · 10년+
+안녕하세요. 저는 **팀벨(timbel)**에서 10년 이상 마케팅을 해오며,  
+광고를 운영하는 사람을 넘어 **성장을 만드는 구조 자체를 설계해온 마케터**입니다.
 
-속기 전문 기업이 AI 음성인식 기업으로 전환되는 10년간, 제품 피벗마다 GTM 전략을 재설계하고 마케팅 인프라를 재구축했습니다. 광고 집행뿐 아니라 웹사이트, 데이터 추적 시스템, 자동화 워크플로우까지 코드로 구현합니다.
+속기 전문 기업이 AI 음성인식 기업으로 전환되는 과정에서,  
+제품이 바뀔 때마다 **GTM 전략, 랜딩 구조, 추적 시스템, 리드 자동화, 운영 워크플로우**를 다시 만들었습니다.
 
-매체 → 랜딩 → 전환까지 전 과정을 직접 설계합니다. 유입의 98%가 모바일이라는 데이터를 보고 전용 랜딩페이지를 만들었고, 91%까지 치솟은 반송률을 잡기 위해 앵커 페이지 구조를 새로 설계했습니다. 여기에 UTM + Wix Velo 기반 어트리뷰션 추적을 직접 구축한 결과, 트래픽 2배 증가 대비 전환은 10배로 늘었습니다.
+저는 단순히 광고를 집행하지 않습니다.  
+**광고가 작동하는 구조, 전환이 일어나는 흐름, 팀이 반복적으로 사용할 수 있는 시스템**을 직접 만듭니다.
 
-이런 과정에서 반복되는 병목이 보이면 도구를 만듭니다. 만든 도구는 팀에 배포하고, 실제 업무에 쓰고 있습니다.
+- **Growth** — Paid media, funnel design, CRO, experimentation
+- **Systems** — Attribution tracking, lead ops, AI workflows
+- **Build** — Next.js tools, landing pages, internal automation
 
 ---
 
