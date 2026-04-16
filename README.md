@@ -1,159 +1,129 @@
-<div align="center">
+# 이세영
 
-# 이세영 Seyoung Lee
+**Growth Marketer · AI Automation · Builder**
 
-### I build growth systems, not just campaigns.
+마케팅 인프라를 코드로 설계하고, 데이터 기반으로 성장시킵니다.
+광고를 집행하는 게 아니라, 광고가 작동하는 구조를 만듭니다.
 
-Growth Marketing · AI Automation · Web Builder
+![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=flat-square) ![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=flat-square) ![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=flat-square) ![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=flat-square)
 
-![Lead Growth](https://img.shields.io/badge/Lead_Growth-14x-FF6B35?style=for-the-badge)
-![ROAS](https://img.shields.io/badge/ROAS-650%25-FF6B35?style=for-the-badge)
-![Conversion](https://img.shields.io/badge/Conversion-1%2C078%25-FF6B35?style=for-the-badge)
-![Enterprise](https://img.shields.io/badge/Enterprise-250%2B-FF6B35?style=for-the-badge)
-
-[Projects](#featured-projects) • [Impact](#impact) • [How I Work](#how-i-work) • [Contact](#contact)
-
-</div>
+**한국어** | [English](#english) | [Full English →](README_EN.md)
 
 ---
 
-## About Me
+## About
 
-안녕하세요. 저는 **팀벨(timbel)**에서 10년 이상 마케팅을 해오며,  
-광고를 운영하는 사람을 넘어 **성장을 만드는 구조 자체를 설계해온 마케터**입니다.
+**팀벨(timbel)** 홍보마케팅 팀장 · 10년+
 
-속기 전문 기업이 AI 음성인식 기업으로 전환되는 과정에서,  
-제품이 바뀔 때마다 **GTM 전략, 랜딩 구조, 추적 시스템, 리드 자동화, 운영 워크플로우**를 다시 만들었습니다.
+속기 전문 기업이 AI 음성인식 기업으로 전환되는 10년간, 제품 피벗마다 GTM 전략을 재설계하고 마케팅 인프라를 재구축했습니다. 광고 집행뿐 아니라 웹사이트, 데이터 추적 시스템, 자동화 워크플로우까지 코드로 구현합니다.
 
-저는 단순히 광고를 집행하지 않습니다.  
-**광고가 작동하는 구조, 전환이 일어나는 흐름, 팀이 반복적으로 사용할 수 있는 시스템**을 직접 만듭니다.
+매체 → 랜딩 → 전환까지 전 과정을 직접 설계합니다. 유입의 98%가 모바일이라는 데이터를 보고 전용 랜딩페이지를 만들었고, 91%까지 치솟은 반송률을 잡기 위해 앵커 페이지 구조를 새로 설계했습니다. 여기에 UTM + Wix Velo 기반 어트리뷰션 추적을 직접 구축한 결과, 트래픽 2배 증가 대비 전환은 10배로 늘었습니다.
 
-- **Growth** — Paid media, funnel design, CRO, experimentation
-- **Systems** — Attribution tracking, lead ops, AI workflows
-- **Build** — Next.js tools, landing pages, internal automation
+이런 과정에서 반복되는 병목이 보이면 도구를 만듭니다. 만든 도구는 팀에 배포하고, 실제 업무에 쓰고 있습니다.
 
 ---
 
-## Impact
+## What I Do
 
-- **14x lead growth**
-- **650% ROAS**
-- **1,078% conversion increase**
-- **250+ enterprise customers**
-- **10+ years** in growth marketing
-- **$1M+ annual paid media operations** across Meta, Google, Naver
-
-### Highlights
-
-- 유입의 **98%가 모바일**이라는 데이터를 기반으로 모바일 전용 랜딩 구조를 재설계
-- 반송률 **91%** 구간을 개선하기 위해 앵커 기반 페이지 흐름을 새로 설계
-- **UTM + Wix Velo 기반 어트리뷰션 추적 시스템**을 직접 구축
-- 트래픽 **2배 증가** 상황에서 전환은 **10배 이상** 증가
-- SK hynix · SK Telecom 공동 런칭 AI SaaS의 GTM 실행 및 첫해 목표 초과 달성
+- **Growth Marketing** — 연간 10억+ 규모 광고 운영 (Meta · Google · Naver), 퍼널 설계, A/B 테스트
+- **AI Automation** — GPT · Make.com · Notion API 기반 워크플로우 구축
+- **Web & Tool Building** — Next.js · Wix Velo로 내부 도구와 사이트 직접 개발
+- **Data-driven CRO** — UTM 추적 시스템 설계, 전환 구조 최적화, 소재별 리드 품질 분석
+- **Campaign Execution** — 5개 사업부 마케팅 총괄, 멀티채널 캠페인 운영
+- **GTM & Product Marketing** — B2B SaaS 런칭, 포지셔닝, 세그먼트별 메시지 설계
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### WebScout — AI Competitive Website Analyzer
+### MefiMake — Meta 광고 소재 생성기
 
-URL 하나로 경쟁사 사이트 구조를 자동 분석하고,  
-UX · SEO · 콘텐츠 관점의 진단 리포트를 생성하는 도구입니다.
+콘텐츠 마케터·디자이너를 위한 캔버스 기반 광고 소재 생성기.
 
-**Why it matters**  
-수작업으로 하던 경쟁사 분석을 **반복 가능한 성장 워크플로우**로 바꿨습니다.
+**문제** — 디자인 경험 없는 마케터가 광고 소재 제작에 시간을 많이 씀.
 
-**What it does**
-- 사이트 구조 크롤링
-- 숨은 페이지 탐색
-- 핵심 페이지 추출
-- GPT 기반 진단 리포트 자동 생성
+**해결** — 잠금 템플릿 위에서 바로 편집할 수 있는 캔버스 도구를 만들었습니다. Safe Zone 가이드, Meta Library 연동, 멀티 포맷 내보내기 포함.
 
-**Stack**  
-Next.js · TypeScript · GPT-4o · Vercel
+[Live](https://mefimake.vercel.app) · Next.js, Vercel
 
-[Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next)
+### WebScout — 경쟁사 사이트 분석 자동화
 
----
+URL 하나로 경쟁사 사이트를 자동 진단하는 분석 도구.
 
-### Ad Creative Tool — AI Ad Creative Pipeline
+**문제** — 경쟁사 사이트를 하나하나 수동으로 분석하는 데 시간이 과도하게 소요됨.
 
-광고 카피 생성부터 멀티 사이즈 렌더링, 내보내기까지 자동화한 광고 소재 생성 파이프라인입니다.
+**해결** — 크롤러가 사이트 구조를 수집하고, GPT-4o가 UX·SEO·콘텐츠 관점에서 진단 리포트를 자동 생성합니다. 팀원이 URL만 입력하면 리포트를 받을 수 있어, 분석 시간을 대폭 줄였습니다.
 
-**Why it matters**  
-플랫폼별로 반복 제작하던 작업을 **시스템 한 번으로 처리**할 수 있게 만들었습니다.
+[Live Demo](https://webscout-next.vercel.app/) · [GitHub](https://github.com/dalgoms/webscout-next) · Next.js, TypeScript, Vercel
 
-**What it does**
-- 타겟/톤 기반 카피 생성
-- 템플릿 기반 이미지 렌더링
-- 멀티 포맷 자동 출력
-- 운영 상태 관리
+### Ad Creative Tool — 광고 소재 자동화 `진행중`
 
-**Stack**  
-Next.js · GPT-4o · Supabase · Vercel
+카피 작성부터 멀티사이즈 내보내기까지 한번에 처리하는 광고 소재 파이프라인.
 
-[Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool)
+**문제** — 플랫폼별로 소재를 일일이 만드는 반복 작업.
 
----
+**해결** — GPT-4o가 타겟·톤에 맞는 카피를 생성하면, 템플릿 엔진이 렌더링하고 여러 사이즈로 자동 내보냅니다. 소재 하나당 걸리던 반복 작업을 파이프라인 하나로 줄였습니다.
 
-### Lead Automation System — Wix → Notion → AI Agent
+[Live](https://ad-creative-tool.vercel.app) · [GitHub](https://github.com/dalgoms/ad-creative-tool) · Next.js, GPT-4o, Supabase
 
-리드 수집부터 정리, 보강, 태깅, 후속 액션까지 자동화한 운영 시스템입니다.
+### 리드 자동화 시스템
 
-**Why it matters**  
-상담/운영 조직의 반복 업무를 줄이고, 리드 대응 속도와 품질을 높였습니다.
+Wix CMS → Notion → AI 에이전트로 리드 수집부터 팔로업까지 자동화.
 
-**What it does**
-- Wix 폼 데이터 자동 수집
-- Notion DB 적재
-- AI 기반 데이터 보강/태깅
-- 후속 액션 및 CRM 연계
+**문제** — 리드 데이터 정리, 태깅, 팔로업이 전부 수작업.
 
-**Stack**  
-Wix Velo · Make.com · Notion API · GitHub Actions
+**해결** — Wix에서 들어온 리드를 Notion으로 자동 전송하고, AI 에이전트가 데이터 보강·태깅·팔로업을 처리합니다. Notion→GitHub 파이프라인으로 CRM 자동화까지 연결했습니다.
 
-[GitHub](https://github.com/dalgoms/ai_process)
+```mermaid
+flowchart LR
+    A[Wix 폼] -->|Webhook| B[Make.com]
+    B --> C[Notion DB]
+    C --> D[AI Agent]
+    D -->|보강 · 태깅| C
+    D --> E[자동 팔로업]
+    C -->|Actions| F[CRM]
+```
 
----
+[GitHub](https://github.com/dalgoms/ai_process) · Make.com, Notion API, GitHub Actions
 
-## Selected Builds
+### Telegram Todolist Bot — 텔레그램 → 노션 할일 자동화
 
-### MefiMake — Meta Ad Creative Generator
+텔레그램 메시지로 할일을 남기면 노션 DB에 자동 생성되는 업무 자동화 봇.
 
-디자인 경험이 없는 마케터도 빠르게 광고 소재를 만들 수 있도록 설계한 캔버스 기반 툴입니다.  
-Safe Zone 가이드, 템플릿 편집, 멀티 포맷 출력 기능을 포함합니다.
+**문제** — 회의 중 빠르게 기록한 할일이 정리되지 않고 흩어짐.
 
-[Live](https://mefimake.vercel.app)
+**해결** — 텔레그램에 한 줄만 입력하면 노션 DB에 구조화된 할일이 생성됩니다. 한글 접두어로 프로젝트를 분류하고, AI가 복잡한 업무를 하위 태스크로 분해하며, 완료 체인으로 후속 작업까지 자동 연결됩니다.
 
-### Telegram Todolist Bot
+[GitHub](https://github.com/dalgoms/telegram_todolist_bot) · Python, Telegram Bot API, Notion API, OpenAI
 
-텔레그램에 한 줄만 입력하면 노션 DB에 구조화된 할 일이 생성되는 자동화 봇입니다.  
-AI가 업무를 분해하고 후속 액션 흐름까지 연결합니다.
+### Telegram File Organizer — AI 파일 자동 정리 봇
 
-[GitHub](https://github.com/dalgoms/telegram_todolist_bot)
+텔레그램에서 폴더 경로를 보내면 AI가 분석하여 자동으로 정리해주는 봇.
 
-### Telegram File Organizer
+**문제** — 수년간 쌓인 파일이 뒤섞여 있고, 중복 파일과 "최종_수정_진짜최종" 버전 지옥.
 
-폴더 경로만 보내면 AI가 파일을 분석해 중복 탐지, 버전 정리, 아카이브 제안까지 수행하는 파일 정리 봇입니다.
+**해결** — 텔레그램에 폴더 경로 한 줄만 보내면 AI가 파일을 분류하고, 중복을 탐지하고, "최종_진짜최종" 같은 버전 체인을 정리합니다. 오래된 파일은 연도별 아카이브로 제안하고, 집·회사 PC 어디서든 같은 방식으로 작동합니다.
 
-[GitHub](https://github.com/dalgoms/telegram-file-organizer)
+[GitHub](https://github.com/dalgoms/telegram-file-organizer) · Python, Telegram Bot API, OpenAI, Google Drive API
 
 ---
 
 ## Growth & Performance
 
-### SORIZAVA — AI Stenography Service
+- Meta · Google · Naver 광고를 10년간 직접 운영하며, 채널별 퍼널을 반복 실험하고 최적화했습니다.
+- SK hynix · SK Telecom 공동 AI SaaS 런칭, 첫해 매출 목표를 초과 달성했습니다.
+- STT · 미디어자막 · 영상편집 · 번역 등 5개 사업부 마케팅을 총괄했습니다.
+- 디자이너·영상PD·콘텐츠 마케터로 구성된 홍보마케팅 팀을 2명 유닛에서 10명+ 독립 부서로 성장시켰습니다.
 
-10년 이상 운영된 서비스에서 가장 먼저 해결한 문제는  
-**유입 경로가 보이지 않는 구조**였습니다.
+![4단계 마케팅 전략](assets/how-i-work.png)
 
-그래서 채널 · 소재 · 키워드 단위로 유입을 추적할 수 있도록  
-**UTM + Wix 폼 + 숨김 필드 + Velo 코드 기반 추적 시스템**을 직접 설계했습니다.
+### SORIZAVA — AI 속기 서비스
 
-그 결과,
-- 매출 **YoY 38% 성장**
-- **ROAS 650%**
-- 트래픽 2배 증가 대비 전환 **1,078% 증가**
+> 핵심 매출 서비스 · 풀퍼널 마케팅 · 자체 어트리뷰션 추적
+
+**문제** — 10년 이상 운영된 속기 서비스라 유입 경로 추적이 없었고, 어떤 채널에서 온 리드가 전환되는지 알 수 없는 구조였습니다.
+
+**해결** — UTM 코드를 직접 설계해서, 채널·소재·키워드별 유입을 양식에 자동 기록하는 추적 시스템을 구축했습니다. Wix 폼 + 숨김 필드 + Velo 코드를 조합해서 상담 부서가 고객의 유입 맥락을 사전에 파악할 수 있게 만들었습니다.
 
 ```mermaid
 flowchart LR
@@ -162,11 +132,12 @@ flowchart LR
         B[Google]
         C[Naver]
     end
-    Ads -->|UTM Links| D[Landing Pages]
-    D -->|Velo Tracking| E[Forms + Hidden Fields]
-    E --> F[Sales / Consultation Team]
-    E --> G[Lead Quality Analysis]
-    G -->|Optimization| Ads
+    Ads -->|UTM 링크| D[랜딩페이지]
+    D -->|Velo 코드| E[폼 + 숨김 필드]
+    E --> F[상담 부서]
+    E --> G[리드 품질 분석]
+    G -->|A/B 최적화| Ads
+```
 
 **결과** — 매출 YoY **38%** 성장, ROAS **650%**, 트래픽 2배 증가 대비 전환 **1,078%** 증가. 소재별 리드 품질 분석과 A/B 테스트로 퍼널을 지속 개선하고 있습니다.
 
